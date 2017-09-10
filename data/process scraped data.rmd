@@ -1,0 +1,67 @@
+---
+title: "Process data scraped from Wikipedia"
+author: "Ian Hussey^[Ghent University. Email: ian.hussey@ugent.be]"
+output:
+  html_document:
+    code_folding: hide
+    highlight: haddock
+    theme: flatly
+    toc: yes
+    toc_float: yes
+---
+
+Data scraped via Pywikibot (see README).
+
+```{r setup, include=FALSE}
+
+knitr::opts_chunk$set(
+  echo = FALSE,
+  message = FALSE,
+  warning = FALSE
+)
+
+```
+
+```{r dependecies}
+
+library(tidyverse)
+library(stringr)
+
+```
+
+```{r get data}
+
+# read in data from the distinct searches
+data_search_1 <- read_tsv("scraped_data/pages_failed_suicide.txt", col_names = FALSE) %>%
+  rename(page_name = X1) %>%
+  mutate(search_criterion = "failed suicide")
+
+data_search_2 <- read_tsv("scraped_data/pages_committed_suicide.txt", col_names = FALSE) %>%
+  rename(page_name = X1) %>%
+  mutate(search_criterion = "committed suicide")
+
+data_search_3 <- read_tsv("scraped_data/pages_unsuccessful_suicide.txt", col_names = FALSE) %>%
+  rename(page_name = X1) %>%
+  mutate(search_criterion = "unsuccessful suicide")
+
+```
+
+```{r process data}
+
+# combine them and find unique page names
+combined_data <- rbind(data_search_1, data_search_2, data_search_3) %>%
+  distinct(page_name)
+
+# write to disk
+combined_data %>% write_csv("processed/unique pages meeting one or more criteria.csv")
+
+
+
+# subset the pages that have "suicid" in the title
+title_contains_suicide <- combined_data %>%
+  filter(str_detect(page_name, "suicid"))
+
+# write to disk
+title_contains_suicide %>% write_csv("processed/pages with suicid in title.csv")
+
+```
