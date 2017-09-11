@@ -47,7 +47,7 @@ From the WHO guidelines:
 
 Here I used [Pywikibot](https://www.mediawiki.org/wiki/Manual:Pywikibot), a python library for editing wikipedia.
 
-### Usage
+### Installation and usage
 
 #### Cloud based instances
 
@@ -62,32 +62,22 @@ To run locally, after installation:
 1. Change to the directory of your local installation. For me, this is:
 
 ```shell
-cd ~/Pywikibot/core 
+cd ~/pywikibot/core 
 ```
 
-2. Then simply make your function calls (using example from below):
-
-```shell
-python pwb.py listpages -lang:en -ns:0 -search:"committed suicide" | tee ~/git/destigmatize-suicide-bot/scraped_data/pages_commited_suicide.txt
-```
-
-Where `command | tee output.txt` shows the output in the terminal and also writes it to the specified file.
+2. Then simply make your function calls (below)
 
 NB I'm still working on how to call this within a python script executed from within Atom, etc.
 
-### Find list of pages that contain strings
+
+
+### Functions
+
+#### Find list of pages that contain strings
 
 Documentation for function [here](https://www.mediawiki.org/wiki/Manual:Pywikibot/listpages.py).
 
-### Working examples:
-
-PAWS:
-
-~~~python
-pwb.py listpages -lang:en -ns:0 -search:"committed suicide" 
-~~~
-
-Local:
+Working example:
 
 ```shell
 python pwb.py listpages -format:3 -lang:en -ns:0 -search:"failed suicide" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_failed_suicide.txt
@@ -111,29 +101,33 @@ Possibly useful additional parameters:
 
 
 
-### Find and replace strings, provide summary of changes
+#### Find and replace strings, provide summary of changes
 
 Documentation for function [here](https://www.mediawiki.org/wiki/Manual:Pywikibot/replace.py).
 
-(semi) working example:
+Working example:
 
 ```python
-pwb.py replace \
--lang:en \
--ns:0 \
--simulate \
--search:"committed suicide" "committed suicide" "died by suicide" \
--summary:"Changed stigmatising language based on reccomended media guidelines" 
+python pwb.py replace -lang:en -ns:0 -simulate -search:"unsuccessful suicide" "unsuccessful suicide" "non-fatal suicide" -summary:"Changed stigmatising language based on reccomended media guidelines" -file:"~/git/destigmatize-suicide-bot/data/scraped_data/unique pages with problematic language with suicid in title.txt"
 ```
 
 - `-lang:en` english language articles only
 - `-ns:0` articles only, no talk pages etc.
-- `-simulate` only simulate the changes, don't do them for real.
+- `-simulate` only simulate the changes, don't do them for real.\*
 - `-search:"committed suicide" "committed suicide" "died by suicide"` find pages that include the first string, then replace the second string with the third
 - `-summary` the summary saved
+- `-file` only search pages in the local file. e.g., `-file:"~/git/destigmatize-suicide-bot/data/scraped_data/unique pages with problematic language.txt"`
 
 
-**IMPORTANT**: There are strict rules around editing wikipedia using bots. The above code is very easy to implement, but until we're confident that we know what we're doing here we should be cautious. Breaking the rules risks brining negative attention from the editors who might not favour future attempts, not to mention having all our changes undone and accounts banned.
+\* **IMPORTANT**: There are strict rules around editing wikipedia using bots. The above code is very easy to implement, but until we're confident that we know what we're doing here we should be cautious. Breaking the rules risks brining negative attention from the editors who might not favour future attempts, not to mention having all our changes undone and accounts banned.
+
+
+
+~~~
+python pwb.py replace -lang:en -ns:0 -simulate -search:"unsuccessful suicide" "unsuccessful suicide" "non-fatal suicide" -summary:"Changed stigmatising language based on reccomended media guidelines" -file:"~/git/destigmatize-suicide-bot/data/scraped_data/unique pages with problematic language with suicid in title.txt"
+~~~
+
+
 
 
 

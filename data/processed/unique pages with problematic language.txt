@@ -1,4 +1,3 @@
-page_name
 1945 in Germany
 1955 in Argentina
 1981 Iraqi embassy bombing
@@ -35,7 +34,7 @@ page_name
 353
 475 (film)
 7 July 2005 London bombings
-"A-Sides, B-Sides & Suicides"
+A-Sides, B-Sides & Suicides
 Abdullah al-Asiri
 Access International Advisors
 Adam Czerniaków
@@ -83,7 +82,7 @@ Cactus Flower (film)
 Café Filho
 Caleb Konley
 California End of Life Option Act
-"California elections, 1992"
+California elections, 1992
 Canary Conn
 Capital punishment in Estonia
 Captain Boomerang
@@ -202,8 +201,8 @@ J. P. Chandrababu
 Jack Kevorkian
 James Gordon Jr.
 James Harden-Hickey
-"Je t'aime, je t'aime"
-"Jeanne Agnès Berthelot de Pléneuf, marquise de Prie"
+Je t'aime, je t'aime
+Jeanne Agnès Berthelot de Pléneuf, marquise de Prie
 Jeff Fehring
 Jeff Weise
 Jigsaw (Saw franchise)
@@ -213,7 +212,7 @@ Joseph Paul Cretzer
 June 2017 Pakistan bombings
 Junshi
 KIL (film)
-"Kaasua, komisario Palmu!"
+Kaasua, komisario Palmu!
 Kabul attack on Canadian Embassy guards
 Kai Henning Bothildsen Nielsen
 Kaiten
@@ -240,7 +239,7 @@ Lewis Richardson (Hollyoaks)
 Lindsay Crosby
 List of Constitutions of Spain
 List of Islamist terrorist attacks
-"List of attacks attributed to the LTTE, 2000s"
+List of attacks attributed to the LTTE, 2000s
 List of government agencies in DC Comics
 List of suicides in Nazi Germany
 List of suicides in fiction
@@ -254,8 +253,8 @@ List of terrorist incidents in December 2015
 List of terrorist incidents in January–June 2011
 List of terrorist incidents in January–June 2013
 List of terrorist incidents in October 2015
-"List of violent incidents in the Israeli–Palestinian conflict, 2001"
-"List of violent incidents in the Israeli–Palestinian conflict, 2003"
+List of violent incidents in the Israeli–Palestinian conflict, 2001
+List of violent incidents in the Israeli–Palestinian conflict, 2003
 Live Baby Live
 Loitering munition
 Lori Erica Ruff
@@ -272,7 +271,7 @@ Masataka Ida
 Mass suicide
 Mass suicide in Demmin
 Massachusetts Death with Dignity Initiative
-"Massachusetts ballot measures, 2012"
+Massachusetts ballot measures, 2012
 Maury Travis
 May 2017 Kabul attack
 Medical aid in dying in the United States
@@ -459,9 +458,9 @@ Timeline of Boko Haram insurgency
 Timeline of ISIL-related events (2016)
 Timeline of the Iraq War (2017)
 Training centre for release of the Atma-energy
-"Twelfth Amendment of the Constitution Bill, 1992 (Ireland)"
-"Twenty-fifth Amendment of the Constitution Bill, 2002 (Ireland)"
-"University of Arkansas, Fayetteville shooting"
+Twelfth Amendment of the Constitution Bill, 1992 (Ireland)
+Twenty-fifth Amendment of the Constitution Bill, 2002 (Ireland)
+University of Arkansas, Fayetteville shooting
 Vampires Are Alive
 Veronika Decides to Die
 Viji
@@ -507,7 +506,7 @@ Ziad Al-Karbouly
 2010 Chechen Parliament attack
 2010 Stockholm bombings
 2014 in Pakistan
-"209th Detachment, 2325th Group"
+209th Detachment, 2325th Group
 21 July 2005 London bombings trial
 224 BC
 300 (comics)
@@ -702,7 +701,7 @@ Islamic State of Iraq and the Levant in Libya
 Islamic terrorism
 Islamic terrorism in Europe (2014–present)
 Israeli casualties of war
-"It's Not Me, I Swear!"
+It's Not Me, I Swear!
 Ithriyah-Raqqa offensive (June 2016)
 James Dallas Egbert III
 Janaka Perera
@@ -736,7 +735,7 @@ Kazhugu (2012 film)
 Kenneth Gibson (Scottish politician)
 Kenneth P. Johnson
 Kenneth Robinson
-"Kirara, Ano Ang Kulay ng Pag-ibig?"
+Kirara, Ano Ang Kulay ng Pag-ibig?
 Kostas Karyotakis
 La Cage aux Folles 3: The Wedding
 Larry Bethea
@@ -760,7 +759,7 @@ List of terrorist incidents in July–December 2012
 List of terrorist incidents in June 2017
 List of terrorist incidents in May 2016
 List of thwarted Islamist terrorist attacks
-"List of violent incidents in the Israeli–Palestinian conflict, 2002"
+List of violent incidents in the Israeli–Palestinian conflict, 2002
 Little Miss Marker (1980 film)
 Liu Rushi
 Lost at Sea (NCIS)
@@ -836,7 +835,7 @@ Prince of Ning rebellion
 Propagandhi
 Pump Up the Volume (film)
 Rabbit Remembered
-"Raise High the Roof Beam, Carpenters and Seymour: An Introduction"
+Raise High the Roof Beam, Carpenters and Seymour: An Introduction
 Ramchandra Siras
 Ranasinghe Premadasa
 Ray Carling
@@ -1004,10 +1003,10 @@ Thomas Denman (physician)
 2002 Arab League summit
 2003 Istanbul bombings
 2004 in Israel
-"2006 Harris County, Texas hate crime assault"
+2006 Harris County, Texas hate crime assault
 2007 Glasgow Airport attack
 2010 in athletics (track and field)
-"2011 Fuzhou, Jiangxi bombings"
+2011 Fuzhou, Jiangxi bombings
 2011 Inter-Continental Hotel Kabul attack
 2014 Eastern Syria offensive
 2015 New Year's attack plots
@@ -1036,7 +1035,7 @@ Alexey Stakhovich
 Ali Mohammed Ghedi
 All Due Respect (The Wire)
 Alpha Dog
-"Amelia Stewart, Viscountess Castlereagh"
+Amelia Stewart, Viscountess Castlereagh
 Andreas Baader
 Andrzej Lepper
 Angels Over Broadway
@@ -1075,11 +1074,11 @@ Cassie Ainsworth
 Catherine Share
 Catherine Trianon
 Character (film)
-"Charles Neville, 6th Earl of Westmorland"
+Charles Neville, 6th Earl of Westmorland
 Chatterton (opera)
 Cheltenham torso mystery
 Chester Bennington
-"Chet Allen (actor, born 1939)"
+Chet Allen (actor, born 1939)
 Chick Tricker
 China Seas (film)
 Chithiram Pesuthadi
@@ -1097,7 +1096,7 @@ Crayon Shin-chan: The Storm Called: The Adult Empire Strikes Back
 Crime in Belgium
 Criticism of Apple Inc.
 Cyberbullying
-"Dale Roberts (footballer, born 1986)"
+Dale Roberts (footballer, born 1986)
 Dangerous (film)
 Dark Summer (film)
 David Edward Maust
@@ -1160,7 +1159,7 @@ Gefängnis Zürich
 George Gilder
 George Rodger
 George Washington Bridge
-"German Colony, Jerusalem"
+German Colony, Jerusalem
 Germanic Wars
 Gert Bastian
 Getúlio Vargas
@@ -1177,7 +1176,7 @@ Hanging
 Harold Adamson (police officer)
 Harold Sines Vance
 Heathers: The Musical
-"Hello Gutter, Hello Fadder"
+Hello Gutter, Hello Fadder
 Henning von Tresckow
 Her Majesty's Prison Service
 Herman Welker
@@ -1188,18 +1187,18 @@ History of Canada (1982–92)
 Histórias Que Nossas Babás Não Contavam
 Ho Ka-i
 Homosexuality and psychology
-"I, Justice (film)"
+I, Justice (film)
 Improvised explosive device
 In God's Name
-"Irish general election, 2011"
-"Irish presidential election, 2011"
+Irish general election, 2011
+Irish presidential election, 2011
 Israeli MIAs
-"Israeli general election, 1996"
+Israeli general election, 1996
 Jaesusaeng
 Jama'at al-Tawhid wal-Jihad
 James Hewitt
 James White (financier)
-"Jammu and Kashmir Legislative Assembly election, 2008"
+Jammu and Kashmir Legislative Assembly election, 2008
 Japanese submarine I-8
 Jean-Joseph Rabearivelo
 Jin-Roh: The Wolf Brigade
@@ -1247,7 +1246,7 @@ List of people with bipolar disorder
 List of political scandals in the United Kingdom
 List of terrorist incidents in October 2016
 List of terrorist incidents in September 2016
-"List of violent incidents in the Israeli–Palestinian conflict, 2005"
+List of violent incidents in the Israeli–Palestinian conflict, 2005
 Long Lost
 Love and Law
 Love in Singapore (2009 film)
@@ -1280,7 +1279,7 @@ Men's rights movement in India
 Michael Bumgarner
 Minbo
 Mister Immortal
-"Mitaka, Tokyo"
+Mitaka, Tokyo
 Moon in the Gutter
 Mooney Mooney Bridge
 Moosajee Bhamjee
@@ -1357,7 +1356,7 @@ SS Minot Victory
 Sabawoon Rehabilitation Centre
 Sabdharatnajyoti Saravanamuttu
 Sam Holden (Home and Away)
-"San Bernardino District, Paraguay"
+San Bernardino District, Paraguay
 Santhi Soundarajan
 Sati (practice)
 Saul of the Mole Men
@@ -1395,7 +1394,7 @@ Supreme Court of Afghanistan
 Sweet Revenge (1998 film)
 Swing Shift Maisie
 Syrian Interim Government
-"Sándor Palace, Budapest"
+Sándor Palace, Budapest
 Tainei-ji incident
 Tawera Nikau
 Tehrik-i-Taliban Pakistan
@@ -1443,8 +1442,8 @@ Trapper Nelson
 Turbulence (1997 film)
 USS Young (DD-580)
 Unfaithfully Yours (1948 film)
-"United Kingdom general election, 1983"
-"United Vilayat of Kabarda, Balkaria and Karachay"
+United Kingdom general election, 1983
+United Vilayat of Kabarda, Balkaria and Karachay
 University (film)
 Unnai Solli Kutramillai
 Unrequited love
@@ -1552,7 +1551,7 @@ Bilal Philips
 Binchō-tan (manga)
 Borderline personality disorder
 Boys and Girls Together
-"Breath, Eyes, Memory"
+Breath, Eyes, Memory
 Bryant Neal Vinas
 Bud Osborn
 Bullying in medicine
@@ -1599,7 +1598,7 @@ Don Young
 Donna Culver Krebbs
 Doris Angleton
 Douglas Alexander
-"Dutch general election, 2017"
+Dutch general election, 2017
 Ed Crane (baseball)
 Edgar Stiles
 Edward Matthew Ward
@@ -1618,7 +1617,7 @@ Fahd al-Quso
 Fair Labor Association
 Faisal Shahzad
 Father of My Children
-"Faust, Part One"
+Faust, Part One
 Fellini's Casanova
 Fin Del Camino
 Fine Gael
@@ -1734,7 +1733,7 @@ List of coalition military operations of the Iraq War
 List of deaths at the Berlin Wall
 List of hardcore punk bands
 List of terrorist incidents in 2004
-"List of violent incidents in the Israeli–Palestinian conflict, 2004"
+List of violent incidents in the Israeli–Palestinian conflict, 2004
 London Ambulance Service
 London Fields (novel)
 Lost Cosmonauts
@@ -1841,7 +1840,7 @@ Rimonabant
 Ring 2
 Road Rules: X-Treme
 Road map for peace
-"Robert Stewart, Viscount Castlereagh"
+Robert Stewart, Viscount Castlereagh
 Robin Williams
 Roman usurper
 Ruby & Quentin
@@ -1952,7 +1951,7 @@ Young Dr. Kildare
 Youth of the Nation
 Yvonne Vallée
 Zhou Xing (secret police official)
-"'night, Mother"
+'night, Mother
 1737 in Wales
 1802 in the United Kingdom
 1889
@@ -2017,7 +2016,7 @@ Archie Carpenter
 Ariel Castro kidnappings
 Armored (film)
 Art Garfunkel
-"Arthur Wolfe, 1st Viscount Kilwarden"
+Arthur Wolfe, 1st Viscount Kilwarden
 Assassination and terrorism in Iran
 Assassination of Benazir Bhutto
 Aydın Menderes
@@ -2126,7 +2125,7 @@ Fedora (film)
 Felícitas Sánchez Aguillón
 Fenn treasure
 Ferdinand Cohen-Blind
-"Ferko v. National Ass'n for Stock Car Auto Racing, Inc."
+Ferko v. National Ass'n for Stock Car Auto Racing, Inc.
 Fleet Street Goodies
 Flinx's Folly
 Floyd Prozanski
@@ -2213,7 +2212,7 @@ Kutty (2001 film)
 Kwon Yang-sook
 LGBT rights in Utah
 Lad culture
-"Lal Masjid, Islamabad"
+Lal Masjid, Islamabad
 Lane Pryce
 Larry Talbot
 Lars Vilks
@@ -2270,7 +2269,7 @@ My Love from the Star (2017 TV series)
 NYX (comics)
 Najibullah Zazi
 Nandi Veendum Varika
-"Naousa, Imathia"
+Naousa, Imathia
 Necroptosis
 Nick Drake
 Nicky Thomas
@@ -2317,7 +2316,7 @@ Ruchika Girhotra case
 Ruzi Ying
 Saaransh
 Sabina K.
-"Salamis, Cyprus"
+Salamis, Cyprus
 Sand Serpents
 Second Hand (band)
 Secret Court of 1920
@@ -2353,7 +2352,7 @@ Suswagatham
 Säntis
 Tabloid Truth
 Tahir ibn Husayn
-"Taiwan presidential election, 1996"
+Taiwan presidential election, 1996
 Tangled Lives (1910 film)
 Tehran Museum of Contemporary Art
 Tell Abyad offensive
@@ -2476,7 +2475,7 @@ Anna Karenina (1948 film)
 Anton Romako
 Antonio Vega
 Anuradha Sharma Pujari
-"Archway, London"
+Archway, London
 Arminius
 Artaxerxes III
 Atlamál
@@ -2501,7 +2500,7 @@ Ben Howlett (politician)
 Bernice Waverley
 Bernie Hayes
 Bessie Darling
-"Beverly Hills, 90210 (season 7)"
+Beverly Hills, 90210 (season 7)
 Big Brother 10 (UK)
 Bipolar disorder
 Bohemian Lights
@@ -2632,13 +2631,13 @@ INXS
 Ian Beale
 Ian Redford
 Illusions perdues
-"Ingeborg of Denmark, Queen of France"
+Ingeborg of Denmark, Queen of France
 Inspector Morse (TV series)
 Inter-rebel conflict during the Syrian Civil War
-"Iraqi parliamentary election, January 2005"
+Iraqi parliamentary election, January 2005
 Iris Robinson scandal
 Jaime de Angulo
-"James Bellamy (Upstairs, Downstairs)"
+James Bellamy (Upstairs, Downstairs)
 James Berry (executioner)
 James Hadley Chase
 James Stacy
@@ -2669,7 +2668,7 @@ Kevin Jennings
 Kill Alex Cross
 Kobra (DC Comics)
 Korvac
-"Kota, Rajasthan"
+Kota, Rajasthan
 Kumārila Bhaṭṭa
 Kya Huaa Tera Vaada
 L'Argent (1983 film)
@@ -2804,7 +2803,7 @@ Seshu
 She-Venom
 Shooter (2007 film)
 Siege of Cuartel de la Montaña
-"Silent Night, Deadly Night Part 2"
+Silent Night, Deadly Night Part 2
 Snake Eyes (film)
 Snow White: A Tale of Terror
 Something Awful
@@ -2847,7 +2846,7 @@ The Magician of Lublin (film)
 The Mask of Dimitrios
 The Messenger (Silva novel)
 The Millionairess
-"The Mummy, or Ramses the Damned"
+The Mummy, or Ramses the Damned
 The Negotiator
 The Omen (franchise)
 The Other Side of Midnight
@@ -2885,7 +2884,7 @@ Werner Schrader
 Wilhelm Brückner (murderer)
 William Davidson (conspirator)
 William Goad
-"William I, German Emperor"
+William I, German Emperor
 Witchblade
 Wolfe Tone
 Woomera Immigration Reception and Processing Centre
@@ -2928,7 +2927,7 @@ Alcatraz Gang
 Anderson Cooper
 Annika Östberg
 Anti-tank warfare
-"Archduke Albrecht, Duke of Teschen"
+Archduke Albrecht, Duke of Teschen
 Archibald Hall
 Arion
 Arjun Pandit (1999 film)
@@ -2967,7 +2966,7 @@ But It's Better If You Do
 CBGB
 Caitlin Ryan (Degrassi)
 Calcutta News
-"California State University, Fullerton massacre"
+California State University, Fullerton massacre
 Carol Ryrie Brink
 Castleknock Castle
 Cato the Younger
@@ -3000,7 +2999,7 @@ DNA repair
 Dallas (2012 TV series)
 Dame sobh
 Dark Seed II
-"David Freeman-Mitford, 2nd Baron Redesdale"
+David Freeman-Mitford, 2nd Baron Redesdale
 David Lytton
 Dear Evan Hansen
 Death of Slobodan Milošević
@@ -3241,7 +3240,7 @@ Rosie Kane
 Rube Burrow
 Running with the Demon
 Ryan Houck
-"Rüdiger, Margrave of Meissen"
+Rüdiger, Margrave of Meissen
 S. P. Hinduja
 SEAT Bolero
 Salem's Lot (2004 miniseries)
@@ -3258,7 +3257,7 @@ Siege of Kobanî
 Siege of Yodfat
 Silent Weapons for Quiet Wars
 Sinn Féin Republican Youth
-"Sir William Temple, 1st Baronet"
+Sir William Temple, 1st Baronet
 Sixty Million Dollar Man
 Sluts of Trust
 Solitary confinement
@@ -3348,10 +3347,10 @@ Vincent and the Doctor
 Vsevolod Meyerhold
 War in Somalia (2006–2009)
 Warblog
-"Waverly Hills, 9-0-2-1-D'oh"
-"Weep Not, Child"
+Waverly Hills, 9-0-2-1-D'oh
+Weep Not, Child
 White Noise: The Light
-"William Lygon, 7th Earl Beauchamp"
+William Lygon, 7th Earl Beauchamp
 William P. Fessenden
 Willis H. O'Brien
 Winter Light
@@ -3399,7 +3398,7 @@ Akihabara massacre
 Al-Shabaab (militant group)
 Albert Guay
 Alexander Trocchi
-"Alfred, Hereditary Prince of Saxe-Coburg and Gotha"
+Alfred, Hereditary Prince of Saxe-Coburg and Gotha
 Ali Fallahian
 Alice and Martin
 Allan Chernoff
@@ -3495,13 +3494,13 @@ Dying Wish
 Eastern Homs offensive (2017)
 EdStone
 Education in South Korea
-"Edward, My Son"
+Edward, My Son
 Effects of long-term benzodiazepine use
 Eleutheria (play)
 Elfric (comics)
 Elizabeth Siddal
 Elysia (band)
-"Emerson, Lake & Palmer"
+Emerson, Lake & Palmer
 Emperor Daowu of Northern Wei
 Emperor Mingyuan of Northern Wei
 Emperor Wen of Liu Song
@@ -3510,7 +3509,7 @@ Escape from Furnace
 Eva Trout (novel)
 Exit Through the Gift Shop
 Father Callahan
-"Federal Correctional Institution, Sheridan"
+Federal Correctional Institution, Sheridan
 Ferns Report
 Film Employees Federation of South India
 Filth (film)
@@ -3546,7 +3545,7 @@ Hamid Karzai
 Harkat-ul-Jihad al-Islami
 Harold Medina Jr.
 Harry Hammond
-"Harry Powlett, 6th Duke of Bolton"
+Harry Powlett, 6th Duke of Bolton
 Haunted Spooks
 Haunting Evidence
 Heinz Heger
@@ -3618,7 +3617,7 @@ Lasantha Wickrematunge
 Lawrence Kemys
 Lessons Learnt and Reconciliation Commission
 Leto II Atreides
-"Letters Written in Sweden, Norway, and Denmark"
+Letters Written in Sweden, Norway, and Denmark
 Lexi Alexander
 Lime-iro Senkitan
 Limelight (1952 film)
@@ -3686,7 +3685,7 @@ Norman Hsu
 Northern Aleppo offensive (March–June 2016)
 Ocey Snead
 Okkupert
-"Old Forge, New York"
+Old Forge, New York
 Ontario Consultants on Religious Tolerance
 Operation Downfall
 Operation Sea Lion
@@ -3711,11 +3710,11 @@ Pilot No. 5
 Pippa Ross
 Police raid
 Population decline
-"Poughkeepsie, Tramps and Thieves"
+Poughkeepsie, Tramps and Thieves
 Prinny: Can I Really Be the Hero?
 Prison Memoirs of an Anarchist
 Prizes (novel)
-"Quintin Hogg, Baron Hailsham of St Marylebone"
+Quintin Hogg, Baron Hailsham of St Marylebone
 RAF Zeals
 Ralph Meeker
 Randeep Hooda
@@ -3760,7 +3759,7 @@ Societal collapse
 Sokoto hostage rescue attempt
 Sophie (TV series)
 Spadework
-"St Joseph's Industrial School, Letterfrack"
+St Joseph's Industrial School, Letterfrack
 State Security Service (Nigeria)
 Steven Adler
 Stickam
@@ -3856,7 +3855,7 @@ Zodiac (comics)
 1858
 190s
 1963 South Vietnamese coup
-"1982, Janine"
+1982, Janine
 2012 Telangana protests
 2016 in Albania
 3-19 shooting incident
@@ -3938,7 +3937,7 @@ Chashme Baddoor (2013 film)
 Chemical castration
 Christian Brando
 Christian Cage
-"Christopher Villiers, 1st Earl of Anglesey"
+Christopher Villiers, 1st Earl of Anglesey
 Chuck Grassley
 Civil Rights Congress
 Clomipramine
@@ -3954,7 +3953,7 @@ Dallas Area Rapid Transit
 Darling (2010 film)
 Darrell Robinson
 Daughter of Darkness (novel)
-"Daulatabad, Maharashtra"
+Daulatabad, Maharashtra
 David Carradine
 David H. Remes
 Dead and Deader
@@ -3990,7 +3989,7 @@ Faults (film)
 Federal Security Service
 Fernando Rey
 Film 24 (channel)
-"For Us, The Living: A Comedy of Customs"
+For Us, The Living: A Comedy of Customs
 Force 2
 Francis Gary Powers
 Frankie Osborne
@@ -4020,7 +4019,7 @@ History of Poland (1989–present)
 History of the Eastern Orthodox Church under the Ottoman Empire
 Honoré de Balzac
 Hot Trip to Heaven
-"Houma, Louisiana"
+Houma, Louisiana
 Housefull (2010 film)
 Hugh D. McIntosh
 "Hugo ""Hurley"" Reyes"
@@ -4037,8 +4036,8 @@ India's Agriculture Development Problem: Lack of Access to Credit
 Indian Ocean raid
 Indo-Sri Lanka Accord
 Infinite Jest
-"Isabella, Princess of Asturias (1851–1931)"
-"Israeli legislative election, 2006"
+Isabella, Princess of Asturias (1851–1931)
+Israeli legislative election, 2006
 J. Robert Atkinson
 J. S. Grimaldi
 Jack Dempsey
@@ -4086,7 +4085,7 @@ List of Imperial Japanese Navy air-to-surface special attack units
 List of Preacher story arcs
 List of Qijian Xia Tianshan characters
 List of Shortland Street characters (1993)
-"List of The Smiling, Proud Wanderer characters"
+List of The Smiling, Proud Wanderer characters
 List of Third Watch characters
 List of accidents and incidents involving airliners by location
 List of assassinations and acts of terrorism against Americans
@@ -4146,7 +4145,7 @@ Operation Overlord
 Opposition to the war in Afghanistan (2001–2014)
 Oxford Union
 Palestinian National Covenant
-"Palm Island, Queensland"
+Palm Island, Queensland
 Palmyra offensive (December 2016)
 Paris embassy attack plot
 Patricia Casey
@@ -4156,13 +4155,13 @@ Peter Janney
 Peter Spencer (farmer)
 Peter Westerstrøm
 Phantom (2013 film)
-"Philippine House of Representatives party-list election, 2010"
+Philippine House of Representatives party-list election, 2010
 Poison Ivy: The New Seduction
 Pol Pot
 Popé
 Prayer to a Vengeful God
 Pro Life Campaign
-"Progressive Party (United States, 1912)"
+Progressive Party (United States, 1912)
 Psychopathology
 Quantum cryptography
 Queen Street massacre
@@ -4194,7 +4193,7 @@ She's Come Undone
 Shen Youzhi
 Silver State Helicopters
 Sinn Féin Front Bench
-"Sir George Stokes, 1st Baronet"
+Sir George Stokes, 1st Baronet
 Skiing in the Snow
 Snapped
 Social Democratic Party (UK)
@@ -4266,13 +4265,13 @@ Transamerica (film)
 Trevor Lee
 Trial of Yolanda Saldívar
 Trimethylaminuria
-"Turkish constitutional referendum, 2017"
+Turkish constitutional referendum, 2017
 USS Ammen (DD-527)
 USS Hobson (DD-464)
 Uherský Brod shooting
 Unconscionability
 Underworld: Evolution
-"United States presidential election, 1868"
+United States presidential election, 1868
 United States v. Swartz
 Unpublished and uncollected works by Stephen King
 Variante
@@ -4332,7 +4331,7 @@ Accidents Happen
 Ace Steel
 Adna Anderson
 Afghan War documents leak
-"Afghan presidential election, 2014"
+Afghan presidential election, 2014
 African Union Mission to Somalia
 Air Cadet (film)
 Aircraft hijacking
@@ -4361,7 +4360,7 @@ Battle of Zabadani (2015)
 Beast King GoLion
 Beat the World Records
 Been to Hell
-"Bethel Church, Mansfield Woodhouse"
+Bethel Church, Mansfield Woodhouse
 Better Off Dead (film)
 Beyond the Realm of Conscience
 Big Brother 7 (UK)
@@ -4407,7 +4406,7 @@ David Axelrod
 David Burrowes
 David Koresh
 Dean Windass
-"Death of Diana, Princess of Wales conspiracy theories"
+Death of Diana, Princess of Wales conspiracy theories
 Death of Elisa Lam
 Deaths in March 2008
 December 1910
@@ -4436,7 +4435,7 @@ Emperor Gao of Southern Qi
 Emperor Wen of Sui
 Ernest Troubridge
 Ernst Hanfstaengl
-"Escambia County, Florida"
+Escambia County, Florida
 Eva Hesse
 Face (sociological concept)
 Faggot (slang)
@@ -4530,7 +4529,7 @@ Kim Jong-ok
 Kim Koo
 Kondura
 Kremenets
-"Kumiko, the Treasure Hunter"
+Kumiko, the Treasure Hunter
 Kurdish women
 La Gioconda (opera)
 Lars Vilks Muhammad drawings controversy
@@ -4553,7 +4552,7 @@ List of The 4400 characters
 List of The Other Truth episodes
 List of attacks related to secondary schools
 List of book-based war films (1775–1898 wars)
-"List of violent incidents in the Israeli–Palestinian conflict, 2006"
+List of violent incidents in the Israeli–Palestinian conflict, 2006
 Loan shark
 Lobo (DC Comics)
 Lohara dynasty
@@ -4570,12 +4569,12 @@ Malik Maqbul
 Malingering
 Manchester Band of Pomo Indians of the Manchester Rancheria
 Manoj Bajpayee
-"Maria: or, The Wrongs of Woman"
+Maria: or, The Wrongs of Woman
 Maria Czaplicka
 Mark David Chapman
 Marvin (character)
 Mary Wacera Ngugi
-"Me, Natalie"
+Me, Natalie
 Memetics
 Michael Savage
 Michael Thomas Ford
@@ -4658,10 +4657,10 @@ Shannon Grove
 Shannon Larratt
 Shay Given
 Shi'ar
-"Si vis pacem, para bellum"
+Si vis pacem, para bellum
 Siege of Seringapatam (1792)
 Siege of Syracuse (343 BC)
-"Silver Bell, Arizona"
+Silver Bell, Arizona
 Sima Ying
 Simon Wicks
 Sino-Burmese War (1765–69)
@@ -4678,7 +4677,7 @@ Sue Sylvester
 SummerSlam (2009)
 Super Bowl commercials
 Susan Ivanova
-"TLC: Tables, Ladders & Chairs (2015)"
+TLC: Tables, Ladders & Chairs (2015)
 Taiyuan
 Takeo Yoshikawa
 Talia al Ghul
@@ -4779,7 +4778,7 @@ American Gangster (film)
 An Lushan Rebellion
 Anabolic steroid
 Andha Naal
-"Anne Stanley, Countess of Castlehaven"
+Anne Stanley, Countess of Castlehaven
 Anthony Fokker
 Antony and Cleopatra
 Apple Inc.
@@ -4795,7 +4794,7 @@ Ava Lord
 Backbone Flute
 Bakeneko
 Battle of Bataan
-"Battle of Gettysburg, Third Day cavalry battles"
+Battle of Gettysburg, Third Day cavalry battles
 Battle of Länkipohja
 Battle of Manila (1945)
 Battle of Qamishli (April 2016)
@@ -4820,7 +4819,7 @@ Broken Blade
 Buppah Rahtree
 By Dawn's Early Light
 Caesar Martinez (The Walking Dead)
-"Canadian federal election, 1957"
+Canadian federal election, 1957
 Carl Johnson (Grand Theft Auto)
 Case of Trotskyist Anti-Soviet Military Organization
 Catholic sexual abuse cases in Australia
@@ -4832,7 +4831,7 @@ Charlotta Seuerling
 Cherry blossom
 Chief Judge Fargo
 Children of Mana
-"Chilean national plebiscite, 1988"
+Chilean national plebiscite, 1988
 Chloe Sullivan
 Christopher Rave
 Chrétien Urhan
@@ -4845,9 +4844,9 @@ Cognitive behavioral therapy
 Collaborator (novel)
 Combat operations in 2015 during the Battle of Aleppo
 Constitution of Florida
-"Controversies during the Turkish general election, November 2015"
+Controversies during the Turkish general election, November 2015
 Creativity (religion)
-"Crime in Omaha, Nebraska"
+Crime in Omaha, Nebraska
 Daken
 Dalmatae
 Dan Halutz
@@ -4938,7 +4937,7 @@ Ingushetia
 Iran hostage crisis
 Iraq spring fighting of 2004
 Israeli Labor Party
-"It Takes a Village Idiot, and I Married One"
+It Takes a Village Idiot, and I Married One
 J. Edgar
 Jacobo Árbenz
 James Mullins (American politician)
@@ -4950,7 +4949,7 @@ Jesús Hernández Tomás
 Jewish Defense League
 Jihadist extremism in the United States
 Jimmy McAleer
-"John Bingham, 7th Earl of Lucan"
+John Bingham, 7th Earl of Lucan
 John Cavil
 John Fashanu
 John Plagis
@@ -5044,7 +5043,7 @@ Ministry (band)
 Mister Miracle (Shilo Norman)
 Mobbing
 Monsieur Lecoq (novel)
-"More Guns, Less Crime"
+More Guns, Less Crime
 Mortal sin
 Motherwell F.C.
 Muath Al-Kasasbeh
@@ -5064,7 +5063,7 @@ Nicholas Seafort
 No One Lives
 Northwestern Syria offensive (April–June 2015)
 November 9
-"Now and Then, Here and There"
+Now and Then, Here and There
 October 14
 October 18
 October 1961
@@ -5095,7 +5094,7 @@ Post-assault treatment of sexual assault victims
 Presidency of George W. Bush
 Pretty Little Picture (Desperate Housewives)
 Prevention of Terrorism Act (Sri Lanka)
-"Prince Albert Victor, Duke of Clarence and Avondale"
+Prince Albert Victor, Duke of Clarence and Avondale
 Prince of Qin (video game)
 Professor Hamilton
 Quneitra offensive (June 2017)
@@ -5129,7 +5128,7 @@ Second Department of Polish General Staff
 Second Punic War
 Send Him Victorious
 Sex verification in sports
-"Shake, Rattle & Roll X"
+Shake, Rattle & Roll X
 Shamil Basayev
 Shawn Nelson (American rampager)
 Shortland Street
@@ -5147,7 +5146,7 @@ Stacey Slater
 Stand-your-ground law
 States' rights
 Stefan Grimm
-"Steins;Gate Drama CD Alpha, Beta, and Gamma"
+Steins;Gate Drama CD Alpha, Beta, and Gamma
 Steve Austin (character)
 Story of the Eye
 Storylines of Coronation Street
@@ -5191,7 +5190,7 @@ The War Between the Tates
 Theseus
 They (2002 film)
 They Look Like People
-"They Shoot Horses, Don't They? (novel)"
+They Shoot Horses, Don't They? (novel)
 Think of the children
 Three Cups of Tea
 Thunderball (film)
@@ -5207,7 +5206,7 @@ Trương Định
 Tug O'Neale
 Turkish involvement in the Syrian Civil War
 Tyler Henry
-"Tyre, Lebanon"
+Tyre, Lebanon
 Tyson Kidd
 USS Blessman (DE-69)
 USS Iowa (BB-61)
@@ -5224,7 +5223,7 @@ Wake in Fright
 Wang Chucun
 Werner von Blomberg
 Western betrayal
-"Westlake, Los Angeles"
+Westlake, Los Angeles
 Westville Correctional Facility
 Who Am I (2014 film)
 William James Stillman
@@ -5341,7 +5340,7 @@ Deaths in October 2009
 Deathstroke
 Delara Darabi
 Desaad
-"Die, Mommie, Die!"
+Die, Mommie, Die!
 Disappearance of Susan Powell
 Domino's Pizza
 Doping in sport
@@ -5358,7 +5357,7 @@ Elementary School Musical (South Park)
 Embarrassment
 Emperor Xiaoming of Northern Wei
 Enron scandal
-"Epicœne, or The Silent Woman"
+Epicœne, or The Silent Woman
 Eric Massa
 Ernst Jansen Steur
 Ernst Röhm
@@ -5374,7 +5373,7 @@ Forensic science
 Foundation (Asimov novel)
 Fourth Fitna
 Frank Herbert's Children of Dune
-"Frederick I, Holy Roman Emperor"
+Frederick I, Holy Roman Emperor
 Friday the 13th (2009 film)
 Friendly Fire (TV series)
 Friends
@@ -5394,7 +5393,7 @@ Glossary of baseball (S)
 God of War: Ghost of Sparta
 Gokusen
 Greenland
-"Gudiya, Kargil war victim"
+Gudiya, Kargil war victim
 Guns N' Roses
 H.I.V.E.
 H.P. Lovecraft's: Necronomicon
@@ -5470,7 +5469,7 @@ Let Me Be Your Star
 Liao dynasty
 List of A Nightmare on Elm Street characters
 List of Awkward episodes
-"List of Beverly Hills, 90210 characters"
+List of Beverly Hills, 90210 characters
 List of Blackadder characters
 List of Code Geass characters
 List of Great Teacher Onizuka characters
@@ -5531,7 +5530,7 @@ Nicholas Nickleby
 Night and Day (TV series)
 Niqāb
 Noon Universe
-"North Attleborough, Massachusetts"
+North Attleborough, Massachusetts
 Northern Mali conflict
 November 1925
 November 1935
@@ -5633,7 +5632,7 @@ The Bamboozle
 The Beaver (film)
 The Blue Comet
 The British Invasion (professional wrestling)
-"The Butcher, the Chef and the Swordsman"
+The Butcher, the Chef and the Swordsman
 The Chance
 The Devil's Brigade (film)
 The Doctors (1963 TV series)
@@ -5656,7 +5655,7 @@ This Addiction
 Thomas Gaffey
 Through a Glass Darkly (film)
 Thuppakki
-"Timeline of events in Cyprus, 1974"
+Timeline of events in Cyprus, 1974
 Timeline of the Libyan Civil War (2014–present)
 Timeline of the Syrian Civil War (September–December 2016)
 Titanic (1997 film)
@@ -5715,7 +5714,7 @@ Zhu Youwen
 2005 in music
 2006 Gaza cross-border raid
 2007 in Somalia
-"2012 Ingleside, San Francisco homicide"
+2012 Ingleside, San Francisco homicide
 2012 in Ireland
 2012 phenomenon
 2014 Isla Vista killings
@@ -5747,7 +5746,7 @@ Angela Kerins
 Ankur (film)
 Anna Nicole Smith
 Antonin Artaud
-"Antony Armstrong-Jones, 1st Earl of Snowdon"
+Antony Armstrong-Jones, 1st Earl of Snowdon
 Apollo 15
 April 1959
 Arab–Israeli conflict
@@ -5756,7 +5755,7 @@ Ariel (poem)
 Arnold Rimmer
 Art Spiegelman
 Arthur Schopenhauer
-"As Above, So Below (film)"
+As Above, So Below (film)
 As If (UK TV series)
 Asha Bhosle
 Assassination of Juvénal Habyarimana and Cyprien Ntaryamira
@@ -5827,7 +5826,7 @@ Dope (band)
 Dragon Ball Z: Wrath of the Dragon
 Du Cong
 Duff McKagan
-"Eden, North Carolina"
+Eden, North Carolina
 Eduardo Frei Montalva
 Edward Bunker
 Edward Carson
@@ -5840,7 +5839,7 @@ Emergency brake assist
 Emperor Taiwu of Northern Wei
 Emperor Xuan of Chen
 Environmental ethics
-"Ernest Augustus, King of Hanover"
+Ernest Augustus, King of Hanover
 Eugene Porter
 Existentialism
 Facilitated communication
@@ -5873,7 +5872,7 @@ Hal Jordan
 Hamari Adhuri Kahani
 Hank Henshaw
 Hannibal
-"Hardeeville, South Carolina"
+Hardeeville, South Carolina
 Hari Singh Gour
 Hate Crime (2005 film)
 Haywire (book)
@@ -5890,7 +5889,7 @@ Hollywood A.D.
 Hortense Mancini
 Howard W. Jones
 Huang Yanpei
-"Hugh O'Neill, Earl of Tyrone"
+Hugh O'Neill, Earl of Tyrone
 Hungarian Revolution of 1956
 Háry János
 IDS Center
@@ -5985,7 +5984,7 @@ McCoy (TV series)
 McQueen family
 Mentalism (discrimination)
 Metropolis (comics)
-"Micaela Almonester, Baroness de Pontalba"
+Micaela Almonester, Baroness de Pontalba
 Michael Vaughan
 Military history of the United States during World War II
 Milli Vanilli
@@ -6008,7 +6007,7 @@ Never Quite the Same
 Nguyễn Văn Thiệu
 Nimrod (album)
 Nonbenzodiazepine
-"Nostalgia, Ultra"
+Nostalgia, Ultra
 Nyssa Raatko
 Oedipus (Dryden play)
 Oedipus Rex
@@ -6057,7 +6056,7 @@ Romola de Pulszky
 Ronnie Radke
 Rorschach test
 Ryan Howard (The Office)
-"Sagay, Negros Occidental"
+Sagay, Negros Occidental
 Samantha Lewthwaite
 Sami Zayn
 Samurai Vendetta
@@ -6070,7 +6069,7 @@ Sexual orientation and military service
 Sham Legion
 Shaukat Aziz
 Shock (2004 film)
-"Siege of Chittorgarh, 1303"
+Siege of Chittorgarh, 1303
 Skin whitening
 Socialist Republic of Romania
 Socialist Youth League (United States)
@@ -6078,7 +6077,7 @@ Sofia Kovalevskaya
 Soham murders
 Solomon P. Sharp
 Somewhere (film)
-"South Australian state election, 2006"
+South Australian state election, 2006
 Space Battleship Yamato 2199
 Stephen Ward
 Storm of the Century
@@ -6123,7 +6122,7 @@ The Young Rebels
 Theoren Fleury
 Theramenes
 Timeline of World War II (1943)
-"To Sir, with Love (2006 film)"
+To Sir, with Love (2006 film)
 Tobiads
 Tokusou Robo Janperson
 Tom Holloway
@@ -6152,7 +6151,7 @@ Warlock (1989 film)
 Washington (state)
 Wasted on the Young
 Watchung Reservation
-"Webb County, Texas"
+Webb County, Texas
 Wei Zhaodu
 William Kidd (painter)
 Wiseguy
@@ -6316,7 +6315,7 @@ Golan Heights
 Great Depression in the United States
 Guido Morselli
 Gummo
-"Guns, God and Government Tour"
+Guns, God and Government Tour
 Hannes von Lahnstein
 Harisu
 Harold Edward Elliott
@@ -6331,11 +6330,11 @@ History of Pomerania
 Hizb ut-Tahrir
 Ho Chi Minh
 Holsworthy Barracks terror plot
-"Honoré Gabriel Riqueti, comte de Mirabeau"
+Honoré Gabriel Riqueti, comte de Mirabeau
 Horacio Quiroga
 I Feel Free
 I masnadieri
-"Idyllwild-Pine Cove, California"
+Idyllwild-Pine Cove, California
 Indian independence movement
 Inspector Canardo
 Insurgent (novel)
@@ -6414,7 +6413,7 @@ Lucien Carr
 MI5
 Machiavellianism in the workplace
 Madan Lal Dhingra
-"Mahwah, New Jersey"
+Mahwah, New Jersey
 Manuel II of Portugal
 Mao Zedong
 Marcel Moyse
@@ -6466,7 +6465,7 @@ November 19
 Number Six (Battlestar Galactica)
 Nuwaubian Nation
 O Beijo do Vampiro
-"Ocean Beach, San Diego"
+Ocean Beach, San Diego
 October 1923
 Oniisama e...
 Operation Bagration
@@ -6502,14 +6501,14 @@ Rick Ross
 Rising Stars (comics)
 Rocko's Modern Life
 Roger O'Connor
-"Ron Paul presidential campaign, 2012"
+Ron Paul presidential campaign, 2012
 Rongelap Atoll
 Rudy Wade
 Sadako vs. Kayako
 Safe Schools Coalition Australia
 Salafi movement
 Salar people
-"Santa Clarita, California"
+Santa Clarita, California
 Santo
 Scarecrow (DC Comics)
 Schlußakkord
@@ -6526,7 +6525,7 @@ Sid Barnes
 Siege of Base 46
 Silverwing (series)
 Simón Bolívar
-"Singaporean general election, 2006"
+Singaporean general election, 2006
 Sisters (TV series)
 Soap (TV series)
 Solomon Grundy (comics)
@@ -6551,7 +6550,7 @@ Super Paper Mario
 Survival International
 Symbiote (comics)
 Syrian Social Nationalist Party
-"Syrian constitutional referendum, 2012"
+Syrian constitutional referendum, 2012
 Tachikoma
 Target Field
 Tea tape scandal
@@ -6588,7 +6587,7 @@ Tina Turner
 Todor Zhivkov
 Tracheotomy
 Tsurani
-"Turkish general election, November 2015"
+Turkish general election, November 2015
 UCC Students' Union
 Uma Maheswaran
 Uncle Duke
@@ -6784,7 +6783,7 @@ Giacomo Puccini
 Gigi Morasco
 Guy Ligier
 Hafte Tir bombing
-"Hamilton, Ohio"
+Hamilton, Ohio
 Hamlet
 Hannah and Her Sisters
 Harry T. Moore
@@ -6909,7 +6908,7 @@ Media freedom in Russia
 Megan Wants a Millionaire
 Melville Macnaghten
 Mental disorder
-"Merry Christmas, Mr. Lawrence"
+Merry Christmas, Mr. Lawrence
 Michael Foot
 Michael Palin
 Michael Scofield
@@ -6973,7 +6972,7 @@ Rape during the Kashmir conflict
 Rashid Khalidi
 Ray Davies
 Red Army
-"Reporting of Injuries, Diseases and Dangerous Occurrences Regulations"
+Reporting of Injuries, Diseases and Dangerous Occurrences Regulations
 Responsibility for the September 11 attacks
 Reza Shah
 Richard Grossinger
@@ -7052,7 +7051,7 @@ The Naked God
 The Other Side of the Door (2016 film)
 The Right Stuff (film)
 The Simpsons Movie
-"The Smiling, Proud Wanderer"
+The Smiling, Proud Wanderer
 The Stone Tape
 The Temple at Thatch
 The Testament of Dr. Mabuse
@@ -7104,7 +7103,7 @@ Warner Bros.
 Warriors of the Rainbow: Seediq Bale
 Waterloo Road (TV series)
 Wayne Enterprises
-"West Plains, Missouri"
+West Plains, Missouri
 Weylin Hotel
 White supremacy
 Willem Oltmans
@@ -7144,7 +7143,7 @@ Zita of Bourbon-Parma
 A Thousand Kisses Deep (film)
 Abraham Ford
 Adam Johnson (footballer)
-"Afghan presidential election, 2009"
+Afghan presidential election, 2009
 Afghanistan
 Afrocentrism
 Alex Sanders (Wiccan)
@@ -7156,7 +7155,7 @@ American Theater (World War II)
 Amleto
 Amon Göth
 And Now for Something Completely Different
-"Andover, Hampshire"
+Andover, Hampshire
 Anti-schooling activism
 Antichrist (film)
 Arab citizens of Israel
@@ -7209,9 +7208,9 @@ Clovelly-Kepplestone
 Commodus
 Comparison of the Amundsen and Scott Expeditions
 Conversion therapy
-"Copperas Cove, Texas"
+Copperas Cove, Texas
 Correlation does not imply causation
-"Covina, California"
+Covina, California
 Cretan War (205–200 BC)
 Cuban Missile Crisis
 Daegu subway fire
@@ -7294,7 +7293,7 @@ Helium
 Hellblazer
 Hemlock Grove
 Henry Fonda
-"Herbert Kitchener, 1st Earl Kitchener"
+Herbert Kitchener, 1st Earl Kitchener
 Hester Ulrich
 Hippocratic Oath
 History of Alcoholics Anonymous
@@ -7323,7 +7322,7 @@ International Brigades
 International Operations
 Isamu Noguchi
 Islamism
-"Israel, Palestine, and the United Nations"
+Israel, Palestine, and the United Nations
 Jac Naylor
 Japanese aircraft carrier Akagi
 Japanese war crimes
@@ -7333,16 +7332,16 @@ Jest (horse)
 Jillian Becker
 Jim Inhofe
 Jim Leyritz
-"Judge, Jury, Executioner"
+Judge, Jury, Executioner
 Judith Butler
-"July 12, 2007 Baghdad airstrike"
+July 12, 2007 Baghdad airstrike
 K'naan
 Kalisto (wrestler)
 Kantian ethics
 Kapisa Province
 Karl Ludwig Sand
 Karl Wilhelm von Stutterheim
-"Katanning state by-election, 1935"
+Katanning state by-election, 1935
 Katherine Chancellor
 Katie Fitch
 Killer Moth
@@ -7441,7 +7440,7 @@ Operation Rimau
 Organ donation
 Owlman (comics)
 PNS Mehran attack
-"Pakistani state of emergency, 2007"
+Pakistani state of emergency, 2007
 Parthian Empire
 Participants in the Madoff investment scandal
 Pat Brown
@@ -7545,19 +7544,19 @@ The End of Evangelion
 The Fatigues
 The Flaming Lips
 The Glass Bees
-"The Great Crash, 1929"
+The Great Crash, 1929
 The Hum
 The Human Condition (film series)
 The Iron Dragon's Daughter
 The Joy Luck Club (film)
 The Lady of Shalott
 The Latin American Xchange
-"The League of Extraordinary Gentlemen, Volume III: Century"
+The League of Extraordinary Gentlemen, Volume III: Century
 The Little Girl Who Lives Down the Lane
 The Monarchy (comics)
 The Night's Dawn Trilogy
 The Real Thing (Faith No More album)
-"The Ritz Hotel, London"
+The Ritz Hotel, London
 The Secrets of Harry Bright
 The Story of Marie and Julien
 The Sweetness at the Bottom of the Pie
@@ -7576,8 +7575,8 @@ Two Fathers
 USS Mannert L. Abele
 USS Woodworth (DD-460)
 Ultra Series
-"Union for a Popular Movement leadership election, 2012"
-"United States Senate election in California, 1950"
+Union for a Popular Movement leadership election, 2012
+United States Senate election in California, 1950
 University of Texas School of Law
 Unknown Pleasures
 Unruly Qiao
@@ -7589,7 +7588,7 @@ Vinayagamoorthy Muralitharan
 WWE Network
 Watts family
 Weimar Republic
-"Wellsville, New York"
+Wellsville, New York
 Weyr
 White Dog
 Wilhelm Reich
@@ -9586,7 +9585,7 @@ Albertus L. Meyers Bridge
 Albucilla
 Aleta Freel
 Alexander McQueen
-"Alexander Walkden, 1st Baron Walkden"
+Alexander Walkden, 1st Baron Walkden
 Allama Hassan Turabi
 Allyson McConnell
 Alphonse Pénaud
@@ -9702,12 +9701,12 @@ Heinrich Seetzen
 Her Bridal Nightmare
 Hermann Friedrich Graebe
 Hertha Sturm
-"Hitchin by-election, 1911"
+Hitchin by-election, 1911
 Hoeroa Marumaru
 Horror Story (film)
 Hudna
 Hysterical Blindness (Heroes)
-"I, the Jury"
+I, the Jury
 Ibn al-Shaykh al-Libi
 Ida Craddock
 Indian Penal Code
@@ -9797,7 +9796,7 @@ Nelofer Pazira
 Nest of Worlds
 Newspaper theft
 Niall Donohue
-"Nickel Mines, Pennsylvania"
+Nickel Mines, Pennsylvania
 Novalyne Price Ellis
 Nozomi Momoi
 Nurse Ratched
@@ -9814,15 +9813,15 @@ Petre Locusteanu
 Phil Tucker
 Philip Markoff
 Politian (play)
-"Prince Gaetan, Count of Girgenti"
-"Prince Louis, Count of Trani"
+Prince Gaetan, Count of Girgenti
+Prince Louis, Count of Trani
 Problem gambling
 Psychological pain
 Punish the Sinners
 Pál Szécsi
 Rajavin Parvaiyile
 Resignation (House)
-"Reuben, Reuben"
+Reuben, Reuben
 Rex Beach
 Richard Holden (politician)
 Richard Lancelyn Green
@@ -9985,7 +9984,7 @@ Bobby Chacon
 Brain Damage (wrestler)
 Breckinridge Elkins
 Bruce DuMont
-"Bruno (footballer, born 1984)"
+Bruno (footballer, born 1984)
 Bruno Kastner
 CP System
 California Proposition 4 (2008)
@@ -10058,7 +10057,7 @@ Hal Ashby
 Hamoun (film)
 Harold Holt
 Hated in the Nation (Black Mirror)
-"Hateship, Friendship, Courtship, Loveship, Marriage"
+Hateship, Friendship, Courtship, Loveship, Marriage
 Henry Bunny
 Henry Savery
 Hide and Seek (2005 film)
@@ -10096,7 +10095,7 @@ Kfar Saba
 Khamosh Pani
 Kilgore Trout
 Kimberly Corman
-"Knickerbocker Theatre (Washington, D.C.)"
+Knickerbocker Theatre (Washington, D.C.)
 Kullervo (Sibelius)
 LGBT rights in the Philippines
 La Chinoise
@@ -10136,7 +10135,7 @@ Mary Leona Gage
 Maureen Starkey Tigrett
 Memory of a Free Festival
 Merle Dixon
-"Michigan's 8th congressional district election, 2006"
+Michigan's 8th congressional district election, 2006
 Money for Nothing (1993 film)
 Mood disorder
 Moses Gabb
@@ -10172,7 +10171,7 @@ Raymond Chandler
 Raymond Cho (actor)
 Raymond Riles
 Reflections in a Golden Eye (film)
-"Richard Bethell, 1st Baron Westbury"
+Richard Bethell, 1st Baron Westbury
 Richard Todd
 Robert Mulka
 Robert Shapiro (lawyer)
@@ -10207,7 +10206,7 @@ Takuya Sugi
 Tank Girl
 Teresa Lisbon
 Terrorism in Egypt
-"That's Good, That's Bad (Desperate Housewives)"
+That's Good, That's Bad (Desperate Housewives)
 The Cry for Myth
 The Dragon Painter
 The Great White Hope
@@ -10221,7 +10220,7 @@ The Storyteller (Picoult novel)
 The Uncle Ruckus Reality Show
 The Wannadies
 The Young Rajah
-"Thomas Arthur, comte de Lally"
+Thomas Arthur, comte de Lally
 Thomas Edward Scrutton
 Threat Vector
 Théodore Rousseau
@@ -10239,15 +10238,15 @@ Urs Hans von Aesch
 Vachel Lindsay
 Velupillai Prabhakaran
 Vesper Lynd
-"Victor Henri Rochefort, Marquis de Rochefort-Luçay"
-"Victor Rothschild, 3rd Baron Rothschild"
+Victor Henri Rochefort, Marquis de Rochefort-Luçay
+Victor Rothschild, 3rd Baron Rothschild
 Vin Gerard
 Vladislav Vančura
 Vēl Pāri
 Walter Baxter
 Wang Tuan
 Wei Xuantong
-"William Eden, 1st Baron Auckland"
+William Eden, 1st Baron Auckland
 William Flanagan (composer)
 William Lennon
 William Tailer
@@ -10397,7 +10396,7 @@ Juanita Hansen
 Judith Anderson
 Kattradhu Thamizh
 Kay Sage
-"Kenneth Baker, Baron Baker of Dorking"
+Kenneth Baker, Baron Baker of Dorking
 Kenneth Molloy
 Kidnapping of Shannon Matthews
 Kimigayo
@@ -10415,7 +10414,7 @@ List of Cuba–United States aircraft hijackings
 List of Shakespearean characters (A–K)
 List of White House security breaches
 List of minor characters in 24
-"List of people from Midland, Texas"
+List of people from Midland, Texas
 Long-Term Credit Bank of Japan
 Love & Distrust
 Ludwig Anzengruber
@@ -10461,10 +10460,10 @@ Pennies from Heaven (TV series)
 Pentaerythritol tetranitrate
 Pete McCloskey
 Phantasm IV: Oblivion
-"Phil Brown (footballer, born 1959)"
+Phil Brown (footballer, born 1959)
 Phil Ochs
 Philadelphia Experiment
-"Philadelphia municipal election, 1951"
+Philadelphia municipal election, 1951
 Philippe Mora
 Pilot (Gossip Girl)
 Poison laboratory of the Soviet secret services
@@ -10555,7 +10554,7 @@ Vienna peace talks for Syria
 W. Ross Thatcher
 Walls of Jericho (band)
 Warsaw Ghetto
-"Watsons Bay, New South Wales"
+Watsons Bay, New South Wales
 Westfield Garden State Plaza
 Will Graham (character)
 William Dickie
@@ -10709,7 +10708,7 @@ John Francis Wheaton
 John Jay Hooker
 John Robinson estate scandal
 John S. Clark
-"John de Vere, 13th Earl of Oxford"
+John de Vere, 13th Earl of Oxford
 Judge McGruder
 Judith Rossner
 Judy Clarke
@@ -10812,8 +10811,8 @@ Roman Empire
 Roo Stewart
 Roseann Quinn
 Ryusuke Taguchi
-"Sag Harbor, New York"
-"Salsipuedes: a Tale of Love, War and Anchovies"
+Sag Harbor, New York
+Salsipuedes: a Tale of Love, War and Anchovies
 Sam Nunn
 Samoa Joe
 Sara Northrup Hollister
@@ -10857,7 +10856,7 @@ The Other Guys
 The Pool Guy
 The Price of Salt
 The Silence (2010 film)
-"The X-Files Mythology, Volume 3 – Colonization"
+The X-Files Mythology, Volume 3 – Colonization
 Theodor Eicke
 Tom Rooney (Florida politician)
 Tony Orlando
@@ -10974,7 +10973,7 @@ Fred Nile
 French philosophy
 Geethaanjali
 Gigi (1958 film)
-"Goleta, California"
+Goleta, California
 Gordon Campbell
 Goths
 Grammar school
@@ -11029,7 +11028,7 @@ Laurette Taylor
 Layla
 Lee Atwater
 Lee de Forest
-"Leeland, Nevada"
+Leeland, Nevada
 Lego Batman 3: Beyond Gotham
 Lewis Powell (conspirator)
 List of American Dad! characters
@@ -11058,7 +11057,7 @@ Movladi Udugov
 Murder of Shanda Sharer
 Nadine Dorries
 Nagato-class battleship
-"Nancy Astor, Viscountess Astor"
+Nancy Astor, Viscountess Astor
 Native Tongue (Carl Hiaasen novel)
 Navy Petty-Officers School of Mechanics
 Neal Boortz
@@ -11067,10 +11066,10 @@ Noite na Taverna
 Noon Wine
 Nucky Thompson
 Nzinga of Ndongo and Matamba
-"Ogden, Utah"
+Ogden, Utah
 Old age
 Olympian Gods (DC Comics)
-"Omak, Washington"
+Omak, Washington
 Operation Anthropoid
 Operation Bid Rig
 Oregon
@@ -11085,15 +11084,15 @@ Port Arthur massacre (Australia)
 Pother Kanta
 Prader–Willi syndrome
 Pre-Code Hollywood
-"Prince Miguel, Duke of Viseu"
+Prince Miguel, Duke of Viseu
 Prisoner (TV series)
 Publius Clodius Thrasea Paetus
 Pål Sverre Hagen
 Quadrophenia
 Queensland
-"Rachel Chiesley, Lady Grange"
+Rachel Chiesley, Lady Grange
 Radio from Hell
-"Rampura, Neemuch"
+Rampura, Neemuch
 Ranil Wickremesinghe
 Raymond Allen Davis incident
 Raymond Roussel
@@ -11129,7 +11128,7 @@ Susan Mayer
 Susannah Morrisey
 Symbionese Liberation Army
 Syrian–Turkish border clashes during the Syrian Civil War
-"Tarsus, Mersin"
+Tarsus, Mersin
 Ted Kord
 Teen sitcom
 Tenth of December: Stories
@@ -11229,7 +11228,7 @@ Brazil
 CMLL 80th Anniversary Show
 Caligula (film)
 Carel Johannes Delport
-"Carlsbad Springs, Ontario"
+Carlsbad Springs, Ontario
 Caryl Chessman
 Centennial (miniseries)
 Character of Robert E. Howard
@@ -11246,7 +11245,7 @@ Classical Anatolia
 Clint Curtis
 Colossus (comics)
 Constantine the Great
-"Corpus Christi College, Cambridge"
+Corpus Christi College, Cambridge
 Daenerys Targaryen
 Daraa offensive (February–May 2014)
 Daryl Dixon
@@ -11259,12 +11258,12 @@ Dietrich Peltz
 Diocletian
 Dominic Copeland
 Dominican Order
-"Don't Take It Personally, Babe, It Just Ain't Your Story"
+Don't Take It Personally, Babe, It Just Ain't Your Story
 Doomsday (2008 film)
 Dr. Wagner Jr.
 Dying Light: The Following
 Edda Göring
-"Edward de Vere, 17th Earl of Oxford"
+Edward de Vere, 17th Earl of Oxford
 El Chavo del Ocho
 Elizabeth Smart kidnapping
 Ellen Wilkinson
@@ -11283,7 +11282,7 @@ Flag of Japan
 Flower Drum Song
 Francisco Morazán
 François Villon
-"Frederick III, German Emperor"
+Frederick III, German Emperor
 Gene Tierney
 George Bernard Shaw
 George Canning
@@ -11338,7 +11337,7 @@ Jeffrey Dahmer
 Jessicka Havok
 Jimmy Havoc
 John Fitch (inventor)
-"John Hervey, 7th Marquess of Bristol"
+John Hervey, 7th Marquess of Bristol
 John Quincy Adams
 Johnny Cash
 Joker (character)
@@ -11349,7 +11348,7 @@ July Monarchy
 Józef Łobodowski
 Keanu Reeves
 Kendall Hart
-"Key West, Florida"
+Key West, Florida
 Kim Novak
 Kirkwood City Council shooting
 Krypton (comics)
@@ -11480,7 +11479,7 @@ Soap opera
 Something Happened in Bali
 South Lakes Safari Zoo
 Spacecraft in Red Dwarf
-"St Paul's College, University of Sydney"
+St Paul's College, University of Sydney
 Star Wars: The Force Unleashed
 Station Eleven
 Steve Jobs
@@ -11700,13 +11699,13 @@ Gustav Mahler
 H.M.S. Pinafore
 H. P. Lovecraft
 HMS Phaeton (1782)
-"Hackensack, New Jersey"
+Hackensack, New Jersey
 Haifa
 Hallowicked
 Harold Wilson
 Harry S. Truman
 Hellenistic period
-"Henry John Temple, 3rd Viscount Palmerston"
+Henry John Temple, 3rd Viscount Palmerston
 Hillsborough disaster
 Hindenburg disaster
 Historical negationism
@@ -11733,7 +11732,7 @@ Hungary
 Ian Fleming
 Il ritorno d'Ulisse in patria
 Immigration detention in Australia
-"Indian general election, 2014"
+Indian general election, 2014
 Insane Clown Posse
 International adoption of South Korean children
 Iron Man
@@ -11805,7 +11804,7 @@ List of Torchwood characters
 List of Usagi Yojimbo characters
 List of Wicked characters
 List of Yu-Gi-Oh! characters
-"List of killings by law enforcement officers in the United States, 2011"
+List of killings by law enforcement officers in the United States, 2011
 List of minor Buffy the Vampire Slayer characters
 List of poisonous plants
 List of storylines in Emmerdale
@@ -11860,7 +11859,7 @@ Osage Nation
 Otello
 Oyayubihime (Thumb Princess)
 PT boat
-"Papal election, 1254"
+Papal election, 1254
 Pat Butcher
 Patricia Highsmith
 Paul Robinson (Neighbours)
@@ -11881,7 +11880,7 @@ Press Gang
 Private Eye
 Private Practice (season 4)
 Professor X
-"Progressive Conservative Party of Canada candidates, 1997 Canadian federal election"
+Progressive Conservative Party of Canada candidates, 1997 Canadian federal election
 Prostitution in Italy
 Psychological effects of Internet use
 Qing dynasty
@@ -11893,7 +11892,7 @@ Republic of China (1912–49)
 Revolution (TV series)
 Revolutionary Armed Forces of Colombia
 Rex Balsom
-"Robert Dudley, 1st Earl of Leicester"
+Robert Dudley, 1st Earl of Leicester
 Ronald Reagan
 Rosson House
 Royal Society for the Prevention of Cruelty to Animals
@@ -11901,7 +11900,7 @@ Russian interference in the 2016 United States elections
 Ryan Atwood
 S. A. Andrée's Arctic Balloon Expedition of 1897
 Saddam Hussein and al-Qaeda link allegations
-"Salvador, Bahia"
+Salvador, Bahia
 Samantha Morton
 Samuel Johnson
 Sathya Sai Baba
@@ -11969,7 +11968,7 @@ Zinaida Gippius
 1993 Long Island Rail Road shooting
 1st Armored Division (United States)
 2002 Venezuelan coup d'état attempt
-"2003 Abbeville, South Carolina right-of-way standoff"
+2003 Abbeville, South Carolina right-of-way standoff
 2013 in science
 2014 Ukrainian revolution
 2016 in aviation
@@ -12095,7 +12094,7 @@ History of Caribana (1967–71)
 History of Carthage
 History of Derby County F.C. (1884–1967)
 History of FC Barcelona
-"History of Jardine, Matheson & Co."
+History of Jardine, Matheson & Co.
 History of Macedonia (ancient kingdom)
 History of Michigan Wolverines football in the Yost era
 History of Missouri
@@ -12104,7 +12103,7 @@ History of Poznań
 History of Rome
 History of Tunisia
 History of Venezuela (1999–present)
-"History of Washington, D.C."
+History of Washington, D.C.
 History of Western civilization
 History of guerrilla warfare
 History of homosexuality in American film
@@ -12140,7 +12139,7 @@ Julieta (film)
 July 1962
 July 1964
 July 1965
-"Justice and Development Party election campaign, June 2015"
+Justice and Development Party election campaign, June 2015
 Kallen Stadtfeld
 Katherine Pierce
 King Zhaoxiang of Qin
@@ -12175,7 +12174,7 @@ List of Burn Notice characters
 List of Coronation Street characters (2010)
 List of Dartmouth College alumni
 List of Dick Tracy characters
-"List of Doctor Who universe creatures and aliens (0–9, A–G)"
+List of Doctor Who universe creatures and aliens (0–9, A–G)
 List of Emmerdale characters (2010)
 List of Eureka Seven characters
 List of Fables characters
@@ -12244,14 +12243,14 @@ List of fictional presidents of the United States (C–D)
 List of international presidential trips made by Barack Obama
 List of journalists killed in Russia
 List of kidnappings
-"List of killings by law enforcement officers in the United States, September 2014"
-"List of lesbian, gay, bisexual, or transgender firsts by year"
+List of killings by law enforcement officers in the United States, September 2014
+List of lesbian, gay, bisexual, or transgender firsts by year
 List of military engagements of World War II
 List of minor The Hitchhiker's Guide to the Galaxy characters
 List of organizations designated by the Southern Poverty Law Center as anti-LGBT hate groups
 List of people from Michigan
 List of people from Texas
-"List of people from Union City, New Jersey"
+List of people from Union City, New Jersey
 List of people with brain tumors
 List of political catchphrases
 List of unidentified decedents in the United States
@@ -12428,7 +12427,7 @@ Casualty (series 12)
 Chinese Muslims in the Second Sino-Japanese War
 Clavier-Übung III
 Coalition combat operations in Afghanistan in 2008
-"Conservative Party of Canada leadership election, 2017"
+Conservative Party of Canada leadership election, 2017
 Conviction (2016 TV series)
 Dallas (1978 TV series) (season 5)
 Daniel J. Tobin
@@ -12461,7 +12460,7 @@ Guerrilla phase of the Second Chechen War (2007)
 Hammira Mahakavya
 Hard Time on Planet Earth
 Historical characters in the Southern Victory Series
-"History of Brasenose College, Oxford"
+History of Brasenose College, Oxford
 History of Clark Air Base
 History of Mohun Bagan A.C.
 History of Warsaw
@@ -12598,10 +12597,10 @@ List of fictional medicines and drugs
 List of former United States citizens who relinquished their nationality
 List of historical unrecognized states and dependencies
 List of identities in The Gangs of New York (book)
-"List of killings by law enforcement officers in the United States, April 2015"
-"List of killings by law enforcement officers in the United States, August 2014"
+List of killings by law enforcement officers in the United States, April 2015
+List of killings by law enforcement officers in the United States, August 2014
 List of killings by law enforcement officers in the United States prior to 2009
-"List of mayors of Oakland, California"
+List of mayors of Oakland, California
 List of prisoners with whole-life orders
 List of serial killers by number of victims
 List of show business families
@@ -12741,7 +12740,7 @@ List of Zoids: Chaotic Century episodes
 List of battles before 301
 List of battles since 2001
 List of iZombie episodes
-"List of killings by law enforcement officers in the United States, July 2012"
+List of killings by law enforcement officers in the United States, July 2012
 List of last stands
 List of murder convictions without a body
 List of people who took refuge in a diplomatic mission
@@ -12793,7 +12792,7 @@ Traders (season 2)
 Traders (season 3)
 Dark Shadows (televised storylines)
 List of Aquarius (U.S. TV series) episodes
-"List of Creamy Mami, the Magic Angel episodes"
+List of Creamy Mami, the Magic Angel episodes
 List of Fire Up episodes
 List of Have a Little Faith episodes
 List of Peace & Prosperity episodes
@@ -13170,7 +13169,7 @@ Charles A. Binder
 Charles Ashton (historian)
 Charles Crumb
 Charles D. Millard
-"Charles Joseph, comte Bresson"
+Charles Joseph, comte Bresson
 Charlie Dexter
 Charlotte Schellhorn
 Chen Lin (singer)
@@ -13527,7 +13526,7 @@ Carl Poscha
 Carlo Tonon
 Carlos Prío Socarrás
 Charles Ford (outlaw)
-"Charles Granville, 2nd Earl of Bath"
+Charles Granville, 2nd Earl of Bath
 Cheung Sai Ho
 Christian A. Koenitzer
 Chu Anping
@@ -13580,7 +13579,7 @@ František Rajtoral
 François Lemoyne
 Fred Archer (jockey)
 Fred Bretonnel
-"Frederick Francis III, Grand Duke of Mecklenburg-Schwerin"
+Frederick Francis III, Grand Duke of Mecklenburg-Schwerin
 Fridolin Anderwert
 Friedrich Alpers
 Fu Chi Fong
@@ -13596,7 +13595,7 @@ Geng Bingwen
 Geoffrey Cox (Australian politician)
 Georg Scholze
 George Hunt (trombonist)
-"George Patton, Lord Glenalmond"
+George Patton, Lord Glenalmond
 Georgette Agutte
 Girl with Hyacinths
 Giuseppe Giacomo Gambino
@@ -13607,7 +13606,7 @@ Gongsun Zan
 Gunnar Mattsson
 Guy Revell
 Günther Burstyn
-"H. James Shea, Jr."
+H. James Shea, Jr.
 HMAS Steady Hour
 Halima Rafiq
 Hans-Georg von Friedeburg
@@ -13716,7 +13715,7 @@ Norbert Shamuyarira
 Norm Collins
 Norman J. Rees
 Nothing to Lose (Billy Talent song)
-"Octave-Henri Gabriel, comte de Ségur"
+Octave-Henri Gabriel, comte de Ségur
 Olav Gunnar Ballo
 Oleksandr Oleksandrovych Kovalenko
 On-Line Gamers Anonymous
@@ -13799,7 +13798,7 @@ Weldon Irvine
 What's This Life For
 Wilhelm Murr
 William J. Biggy
-"William John Gray, 13th Lord Gray"
+William John Gray, 13th Lord Gray
 William S. Maynard
 Willibald Borowietz
 Yao Li
@@ -13817,7 +13816,7 @@ A Note to a Certain Old Friend
 Abdul Rahman al-Amri
 Abdón Porte
 Acetone (band)
-"Adolphus Frederick VI, Grand Duke of Mecklenburg-Strelitz"
+Adolphus Frederick VI, Grand Duke of Mecklenburg-Strelitz
 Ajmer rape case
 Aju
 Akechi Mitsutada
@@ -13836,10 +13835,10 @@ Antonin Moine
 Arbuthnot Bank crash
 Armin D. Lehmann
 Arno Jahr
-"Arthur Capell, 1st Earl of Essex"
+Arthur Capell, 1st Earl of Essex
 Arthur Davison Ficke
 Arthur Nicolaier
-"Arthur Stuart, 7th Earl Castle Stewart"
+Arthur Stuart, 7th Earl Castle Stewart
 Athirne
 August Sicard von Sicardsburg
 Axe murder
@@ -13898,7 +13897,7 @@ E. Herbert Norman
 Eberhard Kinzel
 Edgar Rosenberg
 Edgard Potier
-"Edmund Pery, 5th Earl of Limerick"
+Edmund Pery, 5th Earl of Limerick
 Edwin Pearce Christy
 Eldon Jacob Crull
 Ellen West
@@ -13928,7 +13927,7 @@ Galaktion Tabidze
 Genildo Ferreira de França
 Georg Rusche
 George F. Brady
-"George FitzClarence, 1st Earl of Munster"
+George FitzClarence, 1st Earl of Munster
 George Henry Townsend
 Gerhard Fritsch
 Gerolamo Rovetta
@@ -13983,7 +13982,7 @@ Jirō Shiizaki
 Joachim Rumohr
 Jocelyn Cadbury
 Joel Lehtonen
-"Johann VII, Duke of Mecklenburg"
+Johann VII, Duke of Mecklenburg
 John Andrew Young
 John Eliot (Royal Navy officer)
 John Milton (Florida politician)
@@ -14090,7 +14089,7 @@ Rebellion of the Seven States
 René Crevel
 Resolve (Lagwagon album)
 Ricardo García (footballer)
-"Richard Lumley, 2nd Earl of Scarbrough"
+Richard Lumley, 2nd Earl of Scarbrough
 Ricky Womack
 Rita Atria
 Robert Fagan
@@ -14121,12 +14120,12 @@ Stefan Marinov
 Suicidology
 Sumako Matsui
 Sun En
-"Surviving You, Always"
+Surviving You, Always
 Sushil Chandra Varma
 T. A. Robertson
 Takeda Yoshinobu
 Taneli Kekkonen
-"Tano, Kōchi"
+Tano, Kōchi
 Tarmo Uusivirta
 Tatsuji Suga
 Ted Moult
@@ -14243,7 +14242,7 @@ Charles Cullum
 Charles Ernest Beulé
 Charles Félix Jean-Baptiste Camerata-Passionei di Mazzoleni
 Charles Piroth
-"Charles Powlett, 5th Duke of Bolton"
+Charles Powlett, 5th Duke of Bolton
 Charles Riechers
 Charles Romeyn Dake
 Charlotte Mew
@@ -14330,7 +14329,7 @@ Heaven's Gate (religious group)
 Heinrich Zimmer (Celticist)
 Helen Carruthers
 Helene Migerka
-"Henry Bromley, 1st Baron Montfort"
+Henry Bromley, 1st Baron Montfort
 Henry Neele
 Herbert Hailstone
 Heyburn Building
@@ -14486,7 +14485,7 @@ Porcia Catonis
 Prema (Malayalam actress)
 Prime of My Life
 Prince Takanaga
-"Pyaar Ke Do Naam: Ek Raadha, Ek Shyaam"
+Pyaar Ke Do Naam: Ek Raadha, Ek Shyaam
 Quintessence (Borknagar album)
 Rage Against the Veil
 Reginald Hine
@@ -14503,7 +14502,7 @@ Robert Schommer
 Robert Stein (explorer)
 Rock the Casbah (2013 film)
 Rold Gold
-"Romulus, My Father"
+Romulus, My Father
 Ronny Coutteure
 Ross Alexander
 Ruhe (Māori chief)
@@ -14519,11 +14518,11 @@ Sergei Ovchinnikov (volleyball)
 Shahrzad (Reza Kamal)
 Sheree Winton
 Shimizu Muneharu
-"Shirva, India"
+Shirva, India
 Shrink (film)
 Sid Ahmed Rezala
 Sir Galba
-"Sir Herbert Lloyd, 1st Baronet"
+Sir Herbert Lloyd, 1st Baronet
 Soga no Iruka
 Songs for Luci
 Ss. Cyril and Methodius Cathedral
@@ -14551,7 +14550,7 @@ Thlocklo Tustenuggee
 Thomas Brereton
 Thomas Chirnside
 Thomas Niedermayer
-"Thomas Shailer Weston, Jr."
+Thomas Shailer Weston, Jr.
 Three Studies for George Dyer
 Tian Kai
 Tom McHale (novelist born 1941)
@@ -14674,7 +14673,7 @@ Cliff Temple
 Colin Fickes
 Costa Magica
 Cowra breakout
-"Crandon, Wisconsin shooting"
+Crandon, Wisconsin shooting
 Cut Here
 Cy Young (animator)
 Cyprián Majerník
@@ -14751,7 +14750,7 @@ Imai Kanehira
 Indian nurses association
 Infantry Regiment 9 Potsdam
 Inge Vermeulen
-"Isaacs by-election, 2000"
+Isaacs by-election, 2000
 It's Kind of a Funny Story
 Iván Castillo
 Jack Donaldson (athlete)
@@ -14791,7 +14790,7 @@ Karen Friesicke
 Karl Astel
 Kate Plays Christine
 Kathavasheshan
-"Katherine Clifton, 2nd Baroness Clifton"
+Katherine Clifton, 2nd Baroness Clifton
 Kenneth Kendall
 Killing Kennedy
 Kim Tong-jeong
@@ -14813,7 +14812,7 @@ Lin Yi-han
 Lisa Papineau
 List of Israeli civilian casualties in the Second Intifada
 List of postal killings
-"Liu Wu, Prince of Chu"
+Liu Wu, Prince of Chu
 Llazi Sërbo
 Lo imperdonable (2015 telenovela)
 Lorenzen Group
@@ -14847,7 +14846,7 @@ Max Rothmann
 May 1945
 Megareus of Thebes
 Meir Max Bineth
-"Members of the New South Wales Legislative Assembly, 1953–1956"
+Members of the New South Wales Legislative Assembly, 1953–1956
 Metro Doctores
 Mike Gibbins
 Mikey Craig
@@ -14866,13 +14865,13 @@ New Cross house fire
 Nighttime Killers
 Nikola Kesarovski
 Nikolai Uspensky
-"Non-Catholic Cemetery, Syracuse"
+Non-Catholic Cemetery, Syracuse
 Norbert Kröcher
 Nuamthong Praiwan
 Ode to Billy Joe (film)
 Office of National Narcotics Intelligence
 Osei Kwame Panyin
-"Oxbridge Academy Foundation, Inc."
+Oxbridge Academy Foundation, Inc.
 Pain of Mind
 Pat Doody
 Patrick Henry Bruce
@@ -14888,7 +14887,7 @@ Philippe Rühl
 Phạm Văn Phú
 Pierre Chanal
 Pierre Molinier
-"Pilgrim's Rest, Mpumalanga"
+Pilgrim's Rest, Mpumalanga
 Podvinje shooting
 Polish Thermopylae
 Portbou
@@ -14900,7 +14899,7 @@ Psi Corps
 Public Strain
 Puller
 Pyotr Devyatkin
-"Qimei, Penghu"
+Qimei, Penghu
 R. Budd Dwyer
 R. J. Gannon
 R. M. Wanamaker
@@ -14972,7 +14971,7 @@ The Quiet Room (band)
 The Unborn (2009 film)
 The Young Man from Atlanta
 Theodore Zichy
-"Thomas Graves, 2nd Baron Graves"
+Thomas Graves, 2nd Baron Graves
 Thomas Marchildon
 Those People
 Tian Bu
@@ -15045,7 +15044,7 @@ Agnafit
 Agnes Blaikie
 Agrippa
 Albert Pulitzer
-"Albin Swoboda, Jr."
+Albin Swoboda, Jr.
 Alderley Old Hall
 Alfred Zeller
 Alfredo Codona
@@ -15097,12 +15096,12 @@ Chicago Syndicate (film)
 Choose (film)
 Chris Volz
 Christine Paolilla
-"Church of St Peter, Camerton Park"
+Church of St Peter, Camerton Park
 Civilian casualties in the Second Intifada
 Clackamas Town Center shooting
 Coburg shooting
 Cold Spring Canyon Arch Bridge
-"Colorado Street Bridge (Pasadena, California)"
+Colorado Street Bridge (Pasadena, California)
 Daaku Aur Jawan
 Dandara
 Darling 2
@@ -15145,10 +15144,10 @@ Fanatic (film)
 Fay Stender
 Flor y canela
 Florian Vijent
-"Forgiven, Not Forgotten (song)"
+Forgiven, Not Forgotten (song)
 Foster gang
 Franz Altheim
-"Françoise, duchesse de Praslin"
+Françoise, duchesse de Praslin
 Frederick W. Kavanaugh
 Friend Request
 Fruity Dog
@@ -15286,7 +15285,7 @@ Manse Jolly
 Marcus Porcius Cato (son of Cato the Younger)
 Marie Petipa
 Mario Riccobene
-"Martyn Rogers (footballer, born 1960)"
+Martyn Rogers (footballer, born 1960)
 Matchstick TV
 Menostanes
 Merrill Reese
@@ -15346,7 +15345,7 @@ Richard Greene (disambiguation)
 Richmal Oates-Whitehead
 Rob Riley (Aboriginal activist)
 Robert Carranza
-"Robert Spencer, 1st Viscount Teviot"
+Robert Spencer, 1st Viscount Teviot
 Robin Gloag
 Rolf Peter Sieferle
 Roxana Briban
@@ -15387,7 +15386,7 @@ Stephen Heymann
 Sterling Bose
 Steve Trilling
 Su Fengji
-"Subiaco state by-election, 1917"
+Subiaco state by-election, 1917
 Suicide of Bill Sparkman
 Suicide of Jacintha Saldanha
 Sverre Riisnæs
@@ -15414,7 +15413,7 @@ The Strange Death of Vincent Foster
 The Trip (Lætitia Sadier album)
 The Vicious Circle (1948 film)
 Third Contact
-"Thomas Bromley, 2nd Baron Montfort"
+Thomas Bromley, 2nd Baron Montfort
 Thomas C. Wilkinson House
 Thomas Lange
 Thomas McKerrell
@@ -15446,7 +15445,7 @@ Vladimir Fogel
 Vladimir Kovalevsky (paleontologist)
 Wallens Ridge State Prison
 Wang Jingchong (Five Dynasties)
-"West Side, Binghamton"
+West Side, Binghamton
 Whistle (2003 film)
 Wholesale Souls Inc.
 William G. Draper
@@ -15513,7 +15512,7 @@ Anticato
 Antigoni Douka
 Aokigahara in popular culture
 Arcadi Balaguer
-"Archibald Douglas, 8th Marquess of Queensberry"
+Archibald Douglas, 8th Marquess of Queensberry
 Arctic Building
 Arnold Weiss
 Artillery (magazine)
@@ -15591,7 +15590,7 @@ Edoardo Agnelli
 Edward W Nelson
 Eeva Kuuskoski
 Eilat bakery bombing
-"Elizabeth Russell, Duchess of Bedford"
+Elizabeth Russell, Duchess of Bedford
 Empress Dan
 Enemy You
 Esti Mamo
@@ -15652,10 +15651,10 @@ Jirhangga
 Joachim Kroll
 Johar Bendjelloul
 John Alefounder
-"John Beresford, 5th Marquess of Waterford"
+John Beresford, 5th Marquess of Waterford
 John Farquharson (architect)
 John Hope (writer)
-"John Lambton, 5th Earl of Durham"
+John Lambton, 5th Earl of Durham
 Johnny Dollar (musician)
 Johnny Eng
 Josep Maria Corredor i Pomés
@@ -15690,7 +15689,7 @@ Liang Huazhi
 Liselotte Pulver
 List of Turkish Armenians
 List of killings and massacres in Mandatory Palestine
-"Liu Fei, Prince of Qi"
+Liu Fei, Prince of Qi
 Liu Ling (Han dynasty)
 Liviu
 Ljubica Ivošević Dimitrov
@@ -15781,7 +15780,7 @@ Right to keep and bear arms
 Robert Duggan
 Robert E. Howard Museum
 Robert Graham (colonel)
-"Robert Sanders, 1st Baron Bayford"
+Robert Sanders, 1st Baron Bayford
 Roger Cruickshank
 Roger Hodge
 Roger Ikor
@@ -15810,15 +15809,15 @@ Shunzo Sugimura
 Sida shooting
 Silanus
 Sindhu Nathi Poo
-"Sir Edward Hulse, 7th Baronet"
-"Sir John Brownlow, 3rd Baronet"
+Sir Edward Hulse, 7th Baronet
+Sir John Brownlow, 3rd Baronet
 Sophia Bardina
 Sound Party
 Sparks Middle School shooting
 Squad D
 Sreeni Pattathanam
 Sri Mahalakshmi
-"St Mary's Church, Old Amersham"
+St Mary's Church, Old Amersham
 Stanislas Merhar
 Stanley Cooperman
 Stephen F. Burkard
@@ -15837,7 +15836,7 @@ Teiichi Suzuki
 Thank You Shirl-ee May
 The Archivist
 The Beggar of Volubilis
-"The Black Dog, Dublin"
+The Black Dog, Dublin
 The Border Town
 The Defector (film)
 The Dream Palace of the Arabs
@@ -15949,7 +15948,7 @@ Branko's Bridge
 Brazilian Labour Party (historical)
 Brian Keith
 British Muslim Forum
-"Brockhall, Northamptonshire"
+Brockhall, Northamptonshire
 Broken Hope
 Bruriah
 California Institution for Women
@@ -15994,7 +15993,7 @@ EAS Agamemnon
 Each In His Own Way
 Edge of Doom
 Edinburgh Playhouse
-"Edmund Roche, 5th Baron Fermoy"
+Edmund Roche, 5th Baron Fermoy
 Edvard Kardelj
 Ehud Manor
 El fantasma de Elena
@@ -16022,7 +16021,7 @@ Frailty (film)
 Frank B. Brandegee
 Frank Nitti
 Freedom of speech in Brazil
-"French legislative election, 1993"
+French legislative election, 1993
 Fukushima Masanori
 Gahlot
 Gary Allan
@@ -16093,9 +16092,9 @@ June 2016 Mogadishu attacks
 Jürgen Möllemann
 Kaishakunin
 Karl Jäger
-"Kenninghall Road Mill, East Harling"
+Kenninghall Road Mill, East Harling
 Kid McCoy
-"Knighton, Isle of Wight"
+Knighton, Isle of Wight
 Koh-Lanta
 Korechika Anami
 L'Inconnue de la Seine
@@ -16110,7 +16109,7 @@ Li Jingquan
 Li Qi (emperor)
 Life During Wartime (film)
 Lipovans
-"List of attacks attributed to the LTTE, 1990s"
+List of attacks attributed to the LTTE, 1990s
 List of reportedly haunted locations in India
 List of sections of Indian Penal Code
 List of terrorist incidents in 2005
@@ -16378,7 +16377,7 @@ Gareth Branwyn
 Gekijōban Zero
 General of the Artillery (Germany)
 Geneviève Halévy
-"George Hamilton-Gordon, 5th Earl of Aberdeen"
+George Hamilton-Gordon, 5th Earl of Aberdeen
 George Spencer Academy
 George Stuart Fullerton
 Germán Busch
@@ -16404,7 +16403,7 @@ Here's to You (song)
 Herman Lamm
 Heroes of the Eastern Skies
 Hideaway (film)
-"Hitler Bad, Vandals Good"
+Hitler Bad, Vandals Good
 Home for the Holidays (1972 film)
 I ragazzi di via Panisperna
 Indians in Bahrain
@@ -16430,7 +16429,7 @@ Joachim Gottschalk
 Joachim Siegerist
 Johannes Hentschel
 John Bernard Flannagan
-"John Clark, Jr."
+John Clark, Jr.
 John Gould Fletcher
 John Roosevelt Boettiger
 John William Salter
@@ -16540,7 +16539,7 @@ Power 98 (film)
 Poète maudit
 Preikestolen
 Prince Moriyoshi
-"Princeville, Hawaii"
+Princeville, Hawaii
 Province of Seville
 Ptolemy Philadelphus (son of Cleopatra)
 Publius Quinctilius Varus
@@ -16575,7 +16574,7 @@ San Diego–Coronado Bridge
 Sandhana Kaatru
 Sara Teasdale
 Sarah Kane
-"School of Politics and International Relations, University of Nottingham"
+School of Politics and International Relations, University of Nottingham
 Scott Kalvert
 Self-harm
 Seosamh Mac Grianna
@@ -16589,7 +16588,7 @@ Shutter (2008 film)
 Siege of Caizhou
 Sima Xin
 Sinmu of Silla
-"Sir Edward Hulse, 6th Baronet"
+Sir Edward Hulse, 6th Baronet
 Skank Hunt
 Sleepwalking scene
 South African Depression and Anxiety Group
@@ -16642,7 +16641,7 @@ Tyron Perez
 U Turn (2016 film)
 Uh... Oh... Ah...
 Ujigami Shrine
-"United States Senate election in North Carolina, 1986"
+United States Senate election in North Carolina, 1986
 United States and state terrorism
 Vedavati
 Velika Ivanča shooting
@@ -16742,14 +16741,14 @@ Code of Support Foundation
 Collected Cases of Injustice Rectified
 Confession of Pain
 Consort Feng Yuan
-"Cossington, Leicestershire"
+Cossington, Leicestershire
 Criminal Minds (season 3)
 Cross Justice
 Crossroads (1937 film)
 Cruel and Unusual (novel)
 Dagbladet
 Damage (1992 film)
-"David Carnegie, 14th Earl of Northesk"
+David Carnegie, 14th Earl of Northesk
 Davington Priory
 De Patre Vostro (About Your Father)
 Dear Boy (song)
@@ -16761,7 +16760,7 @@ Djamel Beghal
 Donald Cammell
 Dorrit Weixler
 Doug Ault
-"Dr. Bloodmoney, or How We Got Along After the Bomb"
+Dr. Bloodmoney, or How We Got Along After the Bomb
 Duke Li of Jin
 Duke of Edinburgh
 Duncan Gordon Boyes
@@ -16769,7 +16768,7 @@ Dustbin Baby
 Eddie Graham
 Edward Dayes
 Edward Platt
-"Elizabeth Wray, 3rd Baroness Norreys of Rycote"
+Elizabeth Wray, 3rd Baroness Norreys of Rycote
 Else Frenkel-Brunswik
 Enrique Díaz
 Erich Kempka
@@ -16786,14 +16785,14 @@ Fort Garry Hotel
 Francesco Borromini
 Frank DeSimone
 Frank Rosolino
-"Frederick Albert, Prince of Anhalt-Bernburg"
+Frederick Albert, Prince of Anhalt-Bernburg
 Frederick Marrable
 Fritz Bracht
 Fury/Agent 13
 Fushimi Castle
 Gaius Cassius Longinus (Rome character)
 Galba
-"George Lyttelton, 4th Baron Lyttelton"
+George Lyttelton, 4th Baron Lyttelton
 George Moscone
 Georges Schoeters
 Georgia–Iraq relations
@@ -16801,7 +16800,7 @@ Gheorghe Avramescu
 Gisela Elsner
 Glyn Philpot
 Goldsmid family
-"Gone, But Not Forgotten (novel)"
+Gone, But Not Forgotten (novel)
 Government Junta of Chile (1891)
 Graveyard of Honor (1975 film)
 Gretl Braun
@@ -16819,8 +16818,8 @@ Hans Leybold
 Harlem Repertory Theatre
 Hasdrubal Gisco
 Heinz Linge
-"Henry Parnell, 1st Baron Congleton"
-"Henry de Nassau, Lord Overkirk"
+Henry Parnell, 1st Baron Congleton
+Henry de Nassau, Lord Overkirk
 Hermann Gollancz
 Hermann von Barth
 Heydar Huseynov
@@ -16836,7 +16835,7 @@ Igumnov House
 Iniyum Kadha Thudarum
 Instant Clarity
 Iobates
-"Ironsides, Maryland"
+Ironsides, Maryland
 Irv Rubin
 Islamic State of Iraq and the Levant – Khorasan Province
 Ivan Korade
@@ -16870,7 +16869,7 @@ K1 fund
 Karl Heinrich von Hoym
 Kate Claxton
 Kenneth Halliwell
-"Ketchum, Idaho"
+Ketchum, Idaho
 Kim Cheon-il
 Kim Won-bong
 Kota Rani
@@ -16952,7 +16951,7 @@ Pál Teleki
 Qiao Zong
 Quix*o*tic
 Rachel Scott
-"Reginald Sackville, 7th Earl De La Warr"
+Reginald Sackville, 7th Earl De La Warr
 Reichsforschungsrat
 Richard Egan (businessman)
 Rising Sun (film)
@@ -16966,7 +16965,7 @@ Sango Festival
 Santa Monica College
 Saunders King
 Scapigliatura
-"Sebring, Florida"
+Sebring, Florida
 See You in the Morning (film)
 Sergei Pankejeff
 Shana Alexander
@@ -16979,7 +16978,7 @@ Siege of Fushimi
 Sikasso
 Simon Guggenheim
 Simone Battle
-"Sir Godfrey Webster, 4th Baronet"
+Sir Godfrey Webster, 4th Baronet
 Snake in the Garden
 Solaris (2002 film)
 Southwark Bridge
@@ -17006,7 +17005,7 @@ The Return (short story collection)
 The Secret Life of Bees (novel)
 The Seven Minutes (film)
 The Surgeons
-"The Terrace, Barnes"
+The Terrace, Barnes
 The Young Tradition
 The vulture and the little girl
 Theodore Annemann
@@ -17021,7 +17020,7 @@ Udo Proksch
 Una Merkel
 Unbroken (band)
 Under and Over It
-"United Kingdom general election, 1826"
+United Kingdom general election, 1826
 United States war crimes
 Uxoricide
 Valley of the Dolls (film)
@@ -17063,7 +17062,7 @@ Alleghany Corporation
 Amadeus Arkham
 Andrea Salsedo
 Angela Scoular
-"Anthony Ashley-Cooper, 8th Earl of Shaftesbury"
+Anthony Ashley-Cooper, 8th Earl of Shaftesbury
 Art Alexakis
 Arthur Lipsett
 Arvas
@@ -17076,14 +17075,14 @@ Battle of Curzola
 Battle of Orchomenus
 Be-Shaque
 Beatlejuice
-"Belica, Dobrova–Polhov Gradec"
+Belica, Dobrova–Polhov Gradec
 Ben Lindsey (jurist)
 Benny Sela
 Bhoot (film)
 Big Bite
 Bobby Hollander
 Book of Thoth
-"Bridgeville, California"
+Bridgeville, California
 Brindaban Society
 Bruce Cameron (guitarist)
 Bugchasing
@@ -17116,7 +17115,7 @@ David Gurevich
 David J. Skorton
 Days of Wrath (2013 film)
 Dead Time: Kala
-"Dead Women Crossing, Oklahoma"
+Dead Women Crossing, Oklahoma
 Death of Li Wangyang
 Dignity in Dying
 Dirt (TV series)
@@ -17126,7 +17125,7 @@ ER (season 1)
 Eagle Borax Works
 Edineț
 Eduard Fraenkel
-"Edward FitzGerald, 7th Duke of Leinster"
+Edward FitzGerald, 7th Duke of Leinster
 Eknath Khadse
 Elias Bernard Koopman
 Emperor Ai of Han
@@ -17142,7 +17141,7 @@ Everett Sloane
 Femme Fatales (magazine)
 Finca Vigía
 Florencio Parravicini
-"Fox Lake, Illinois"
+Fox Lake, Illinois
 Frances Lear
 François Zourabichvili
 Frontier Middle School shooting
@@ -17187,7 +17186,7 @@ Ichikawa Ebizō
 Indian Opinion
 Inheritance (2006 film)
 Innocent Blood (novel)
-"Itoman, Okinawa"
+Itoman, Okinawa
 Izates bar Monobaz
 Jack Abbott (author)
 Jack Malone
@@ -17261,7 +17260,7 @@ Mike Current
 Mishal Awad Sayaf Alhabiri
 Miyu Uehara
 Monk's House
-"Montgomery County, Pennsylvania shootings"
+Montgomery County, Pennsylvania shootings
 Moritz Wagner
 Mr. & Mrs. '55
 Mr. Brooks
@@ -17301,7 +17300,7 @@ Peppermint Candy
 Petals on the Wind
 Phillips' Folly
 Phoolmoni
-"Pilton, Somerset"
+Pilton, Somerset
 Pingewood
 Pingjin Campaign
 Posthumous promotion
@@ -17312,7 +17311,7 @@ Rakt Sambandh
 Ramanaa (film)
 Rani Karnavati
 Reckless (1935 film)
-"Red Lake, Minnesota"
+Red Lake, Minnesota
 Red Light Company
 References to Ophelia
 Republic of Afghanistan
@@ -17382,7 +17381,7 @@ Tom Jackson (actor)
 Tommy Durden
 Tootsie Roll
 Tosamaganga High School
-"Triptych, May–June 1973"
+Triptych, May–June 1973
 Tōhōkai
 Ukrainian Helsinki Group
 United States military casualties in the War in Afghanistan
@@ -21347,7 +21346,7 @@ Detective (2007 film)
 Devil's Alphabet
 Diamond Smiles
 Dilshad Akhtar
-"Dis ek, Anna"
+Dis ek, Anna
 Drot og marsk
 Eikyō
 El búfalo de la noche (film)
@@ -21399,7 +21398,7 @@ Martin Štěpánek (actor)
 Mary McElroy (kidnapping victim)
 Maya Mayooram
 Mazhavillu
-"Missouri gubernatorial election, 1840"
+Missouri gubernatorial election, 1840
 Mogam Muppadhu Varusham
 Mosada
 Mosagadu
@@ -21610,7 +21609,7 @@ Colonization: Aftershocks
 Corporate (2017 film)
 Crocodile (1996 film)
 Cross (2012 film)
-"Cruzan v. Director, Missouri Department of Health"
+Cruzan v. Director, Missouri Department of Health
 Cure (film)
 Cyilima II Rujugira
 Dear Sigmund
@@ -21625,7 +21624,7 @@ Dragoș Protopopescu
 Dudaktan Kalbe
 Eazhaiyin Sirippil
 Ecological fallacy
-"Ed Gallagher (American football, born 1957)"
+Ed Gallagher (American football, born 1957)
 Edward M. Brecher
 Elizabeth Lavenza
 Emperor Xiaowu of Liu Song
@@ -21718,7 +21717,7 @@ Mizhi Randilum
 Monsieur Ibrahim
 Mouchette.org
 Mutha Mestri
-"My Little Baby, Jaya"
+My Little Baby, Jaya
 Mélo
 Naan Sigappu Manithan (1985 film)
 Nailbomb
@@ -21739,7 +21738,7 @@ Oedipus Rex (1967 film)
 Okul (film)
 Olavum Theeravum
 One Eyed Girl
-"One Sings, the Other Doesn't"
+One Sings, the Other Doesn't
 Paavai College of Engineering
 Pagalil Oru Iravu
 Partner (2008 film)
@@ -21767,7 +21766,7 @@ Rembrandt Tower
 Retrato de Familia
 Ruan Xiao'er
 Rukmavati Ki Haveli
-"Run, Spy, Run"
+Run, Spy, Run
 Russell Lee Smith
 Sallekhana
 Salomé (2002 film)
@@ -21784,7 +21783,7 @@ Shinigami
 Shuchō
 Siege of Kuwabara
 Sins of our Youth
-"So, we'll go no more a roving"
+So, we'll go no more a roving
 Somewhere in France
 Sophocles
 Steel and Lace
@@ -21863,7 +21862,7 @@ Where Have All the People Gone?
 White Wilderness (film)
 Winter Cicada
 Xue Ying
-"You're a Sap, Mr. Jap"
+You're a Sap, Mr. Jap
 Zarya (opera)
 Zuleika Dobson
 Zulmi
@@ -21934,7 +21933,7 @@ Demetrius (play)
 Den osynlige
 Don't Close Your Eyes (Kix song)
 Downtime (film)
-"Dr. Jekyll and Mr. Hyde, Or a Mis-Spent Life"
+Dr. Jekyll and Mr. Hyde, Or a Mis-Spent Life
 Dr. Jekyll and Mr. Hyde (1888 play)
 Dumisa Mahlalela
 Ed Wutke
@@ -22175,7 +22174,7 @@ The Purple Dawn
 The Rage: Carrie 2
 The Red Light Bandit
 The Red Shoes (musical)
-"The Return of the Musketeers, or The Treasures of Cardinal Mazarin"
+The Return of the Musketeers, or The Treasures of Cardinal Mazarin
 The Russians are coming
 The Squaw Man (1918 film)
 The Tenth Brother
@@ -22199,7 +22198,7 @@ Visible Secret
 Wandt v. Hearst's Chicago American
 Washington Savings Bank (New York City)
 Well-Manicured Man
-"Westlake, Louisiana"
+Westlake, Louisiana
 Westroads Mall shooting
 Where Are the Children?
 Whiteface (comics)
@@ -29143,7 +29142,7 @@ Haunted (Palahniuk novel)
 He Loves Me... He Loves Me Not (film)
 Heathcliff (Wuthering Heights)
 Hell on Wheels (episode)
-"Hello, My Dolly Girlfriend"
+Hello, My Dolly Girlfriend
 Helmut Berger
 History of Chinese animation
 History of Hollyoaks
@@ -29151,7 +29150,7 @@ Home (The Walking Dead)
 Hong Kong Kids phenomenon
 Hororo people
 Human trafficking in Ethiopia
-"I, Robot (film)"
+I, Robot (film)
 Imperial Japanese Army
 Incidents at Disneyland Resort
 It (novel)
@@ -29165,7 +29164,7 @@ Julie d'Aubigny
 Julius Baer Group
 Karna (Chaulukya dynasty)
 Kerala Varma Pazhassi Raja (film)
-"Kill Me, Heal Me"
+Kill Me, Heal Me
 Kiss nightclub fire
 L.A. Quartet
 Law enforcement in the United Kingdom
@@ -29304,7 +29303,7 @@ Transfer of Power (Scandal)
 Transonic (comics)
 Turok: Rage Wars
 Tweak (band)
-"Uganda Anti-Homosexuality Act, 2014"
+Uganda Anti-Homosexuality Act, 2014
 Vashistha
 Ventriloquist (comics)
 Vincenz Müller
@@ -29335,7 +29334,7 @@ Yuan Yong
 41st Canadian Parliament
 ADX Florence
 A Diary of Chuji's Travels
-"A Fox, a Rabbit, and a Cabbage"
+A Fox, a Rabbit, and a Cabbage
 A Woman of Substance
 Abbas Kiarostami
 Ahmed al-Darbi
@@ -29364,7 +29363,7 @@ Blue Bloods (season 4)
 Born Free (Dexter)
 Brent Hinds
 Brian & Stewie
-"Bright Lights, Big City (film)"
+Bright Lights, Big City (film)
 Brigitte Bardot
 Buck-O-Nine
 Buddhist modernism
@@ -29406,7 +29405,7 @@ Do Ustad (1959 film)
 East Carter High School shooting
 East of Eden (novel)
 Eerie Queerie!
-"Ellsinore, Missouri"
+Ellsinore, Missouri
 Emperor Wu of Chen
 Emperor Wu of Jin
 Empress Feng Run
@@ -29421,7 +29420,7 @@ Francis Heaulme
 Fred C. Koch
 Funeral Games (novel)
 Gallows Thief
-"Game Over, Charles"
+Game Over, Charles
 Gao Lishi
 Genocide of Yazidis by ISIL
 Georgia Tech main campus
@@ -29532,7 +29531,7 @@ Play (play)
 Pliny the Elder
 Poe no Ichizoku
 Polymorph (Red Dwarf)
-"Pretty Village, Pretty Flame"
+Pretty Village, Pretty Flame
 Psychometrer Eiji
 Quan Deyu
 Quenta Silmarillion
@@ -29540,7 +29539,7 @@ Rajinikanth filmography
 Rape in Pakistan
 Rear Window
 Roark family
-"Robert Jenkinson, 2nd Earl of Liverpool"
+Robert Jenkinson, 2nd Earl of Liverpool
 Ruderman Family Foundation
 Sam Shepard
 San Diego Police Department
@@ -29670,7 +29669,7 @@ Battle of Iwo Jima
 Battle of Rashaya
 Bizzy Crook
 Blackout (Lilin)
-"Blacksburg, Virginia"
+Blacksburg, Virginia
 Blue Devil
 Bosnian crisis
 Bowling King
@@ -29761,7 +29760,7 @@ List of Metalocalypse characters
 List of Monkey Dust characters
 List of minor CSI: Miami characters
 Liu Can (Tang dynasty)
-"Live Oak High School (Morgan Hill, California)"
+Live Oak High School (Morgan Hill, California)
 Lu Zhi (Tang dynasty)
 Lynda Thalie
 Ma Xi'e
@@ -29954,7 +29953,7 @@ Yun Hyu
 Yuwan Ufunushi
 Zhang Changzong
 Ōuchi Yoshinaga
-"'night, Mother (film)"
+'night, Mother (film)
 ...Very 'Eavy ...Very 'Umble
 1226
 221
@@ -29981,7 +29980,7 @@ At the Altar
 Axël
 Ayala Center Cebu
 Belçim Bilgin
-"Better by You, Better than Me"
+Better by You, Better than Me
 Between the Bridge and the River
 Blackwater Trail
 Blood of Minas Gerais
@@ -30219,7 +30218,7 @@ Charlie Bartlett
 Chester Plummer
 Chithirai Pookkal
 Choopulu Kalisina Shubhavela
-"Chūshingura: Hana no Maki, Yuki no Maki"
+Chūshingura: Hana no Maki, Yuki no Maki
 Cléopâtre captive
 Coimbatore Mappillai
 Come Fill the Cup
@@ -30534,7 +30533,7 @@ Liu Chuyu
 Live streaming crime
 Locker 13
 Locrine
-"Love Affair, or the Case of the Missing Switchboard Operator"
+Love Affair, or the Case of the Missing Switchboard Operator
 Love Shuffle
 M. A. Ganapathy
 Manifest Destiny (The Outer Limits)
@@ -30549,7 +30548,7 @@ Megala (TV series)
 Men Behind the Sun
 Meng Tian
 Merrick (novel)
-"Mid Staffordshire by-election, 1990"
+Mid Staffordshire by-election, 1990
 Mihaela Maevska
 Mike Guymon
 Million Dollar Abie
@@ -30728,7 +30727,7 @@ Elena Jacinto Vélez
 Emperor Fei of Chen
 Enemy (Fozzy song)
 Epitafios
-"Erskine, Alberta"
+Erskine, Alberta
 Evangelical Baptist Church of Korea
 Facts Concerning the Late Arthur Jermyn and His Family
 Faithfully (Law & Order: Criminal Intent)
@@ -30740,7 +30739,7 @@ Gaius Calpurnius Piso
 Gallowglass (miniseries)
 Ganga Manga
 Gao Zhao
-"Germany, Pale Mother"
+Germany, Pale Mother
 Gert van Rooyen
 Glenn Helder
 Gunabhiram Barua
@@ -30752,7 +30751,7 @@ Harry Whittier Frees
 Haunted Road
 Heart of stone (novel)
 Herman Tarnower
-"Hey, Come On!"
+Hey, Come On!
 Hosa Belaku
 House of Last Things
 Houston (singer)
@@ -30892,7 +30891,7 @@ Veteran
 Von Sternberg House
 Wally Hope
 We're Off to See the Wizard
-"Whatever I Am, You Made Me"
+Whatever I Am, You Made Me
 White: Melody of Death
 Yoji Harada
 Zindaggi Rocks

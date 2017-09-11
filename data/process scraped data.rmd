@@ -86,7 +86,6 @@ data_search_11 <- read_tsv("scraped_data/pages_non_fatal_suicide.txt", col_names
 ```
 
 
-
 ```{r process data}
 
 # combine and find unique page names
@@ -98,12 +97,12 @@ pages_with_problematic_language <-
         data_search_3,
         data_search_4,
         data_search_5) %>%
-  distinct(page_name) %>%
-  mutate(prob_lang = 1)
+  distinct(page_name) 
 
 # write to disk
 pages_with_problematic_language %>% 
-  write_csv("processed/unique pages with problematic language.csv")
+  write_tsv("processed/unique pages with problematic language.txt", col_names = FALSE)
+
 
 # preferred language
 pages_with_preferred_language <- 
@@ -113,30 +112,37 @@ pages_with_preferred_language <-
         data_search_9,
         data_search_10,
         data_search_11) %>%
-  distinct(page_name) %>%
-  mutate(pref_lang = 1)
+  distinct(page_name) 
 
 # write to disk
 pages_with_preferred_language %>% 
-  write_csv("processed/unique pages with problematic language.csv")
+  write_tsv("processed/unique pages with preferred language.txt", col_names = FALSE)
 ```
 
 
 ```{r}
 # permutations of preferred and problematic language
-full_join(pages_with_problematic_language, pages_with_preferred_language) %>%
+temp1 <- pages_with_problematic_language %>%
+  mutate(prob_lang = 1)
+
+temp2 <- pages_with_preferred_language %>%
+  mutate(pref_lang = 1)
+
+full_join(temp1, temp2) %>%
   count(pref_lang, prob_lang) %>%
   kable() 
 ```
 
+
 ```{r}
 
-# subset the pages that have "suicid" in the title
-title_contains_suicide <- combined_data %>%
+# subset the problematic language pages that have "suicid" in the title
+title_contains_suicide <- pages_with_problematic_language %>%
   filter(str_detect(page_name, "suicid"))
 
 # write to disk
-title_contains_suicide %>% write_csv("processed/unique pages with problematic language with suicid in title.csv")
+title_contains_suicide %>% 
+  write_tsv("processed/unique pages with problematic language with suicid in title.txt", col_names = FALSE)
 
 ```
 
