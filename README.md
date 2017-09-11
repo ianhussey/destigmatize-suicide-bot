@@ -55,13 +55,20 @@ Pywikibot can be run locally or in the cloud via PAWS (Pywikibot: A Web Shell). 
 
 *Note to self: my PAWS instance is available [here](https://paws.wmflabs.org/paws/user/ianhussey/notebooks/Wiki%20suicide%20bot%20management.ipynb).*
 
+
+
 #### Local installations
 
 Follow guide [here](https://www.mediawiki.org/wiki/Manual:Pywikibot/Installation) and then simply run scripts below in terminal.
 
-NB I'm still working on how to call this within a python script executed from within Atom, etc.
+1. Install python (https://www.python.org/downloads/)
+2. In the terminal, run the following commands:
+   1. Install dependencies using `pip install requests`.
+   2. Set up configuration files using `python /Users/Ian/git/destigmatize-suicide-bot/pywikibot/core/pwb.py generate_user_files`, changing file location as necessary.
+   3. Log in to wiki account using `python /Users/Ian/git/destigmatize-suicide-bot/pywikibot/core/pwb.py login`, changing file location as necessary.
+      1. [will we use a communal account? need include details here]
 
-
+I'm still working on how to call this within a python script executed from within Atom, etc.
 
 ### Functions
 
@@ -72,7 +79,7 @@ Documentation for function [here](https://www.mediawiki.org/wiki/Manual:Pywikibo
 Working example:
 
 ```shell
-python pwb.py listpages -format:3 -lang:en -ns:0 -search:"failed suicide" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_failed_suicide.txt
+python /Users/Ian/git/destigmatize-suicide-bot/pywikibot/core/pwb.py listpages -format:3 -lang:en -ns:0 -search:"failed suicide" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_failed_suicide.txt
 ```
 
 - `command | tee output.txt` shows the output in the terminal and also writes it to the specified file.
@@ -82,7 +89,7 @@ python pwb.py listpages -format:3 -lang:en -ns:0 -search:"failed suicide" | tee 
 
 
 - `-ns:0` articles only, no talk pages etc.
-- `-search` search for string 
+- `-search` search for string
 - `-format:3` output only the name of the page, not the page count
 
 Possibly useful additional parameters:
@@ -100,10 +107,10 @@ Documentation for function [here](https://www.mediawiki.org/wiki/Manual:Pywikibo
 Working example:
 
 ```shell
-python ~/pywikibot/core/pwb.py replace -lang:en -ns:0 -simulate "unsuccessful suicide" "non-fatal suicide" -file:/Users/Ian/git/destigmatize-suicide-bot/data/scraped_data/subset_of_problematic_pages.txt
+python /Users/Ian/git/destigmatize-suicide-bot/pywikibot/core/pwb.py replace -lang:en -ns:0 -simulate "failed suicide" "non-fatal suicide" -file:/Users/Ian/git/destigmatize-suicide-bot/data/processed/subset_of_problematic_pages.txt
 ```
 
-- `~/pywikibot/core/pwb.py` Specifies the location of your pywikibot installation. 
+- `/Users/Ian/git/destigmatize-suicide-bot/pywikibot/core/pwb.py` Specifies the location of your pywikibot installation. As it's included in this repo, just change the directory to your git repo.
 - `-lang:en` english language articles only
 - `-ns:0` articles only, no talk pages etc.
 - `-simulate` only simulate the changes, don't do them for real.\*
@@ -137,7 +144,7 @@ python ~/pywikibot/core/pwb.py listpages -format:3 -lang:en -ns:0 -search:"faile
 ##### "unsuccessful suicide"
 
 ```shell
-python ~/pywikibot/core/pwb.py listpages -format:3 -lang:en -ns:0 -search:"unsuccessful suicide" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_unsuccessful_suicide.txt
+python /Users/Ian/git/destigmatize-suicide-bot/pywikibot/core/pwb.py listpages -format:3 -lang:en -ns:0 -search:"unsuccessful suicide" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_unsuccessful_suicide.txt
 ```
 
 ##### "committed suicide"
