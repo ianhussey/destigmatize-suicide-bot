@@ -142,7 +142,7 @@ title_contains_suicide <- pages_with_problematic_language %>%
 
 # write to disk
 title_contains_suicide %>% 
-  write_tsv("processed/unique pages with problematic language with suicid in title.txt", col_names = FALSE)
+  write_tsv("processed/subset_of_problematic_pages.txt", col_names = FALSE)
 
 ```
 

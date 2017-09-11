@@ -99,18 +99,19 @@ Documentation for function [here](https://www.mediawiki.org/wiki/Manual:Pywikibo
 
 Working example:
 
-```python
-python ~/pywikibot/core/pwb.py replace -lang:en -ns:0 -simulate -search:"unsuccessful suicide" "unsuccessful suicide" "non-fatal suicide" -summary:"Language around suicide changed to be in line with the World Health Organisation's [guidelines](http://whqlibdoc.who.int/publications/2008/9789241597074_eng.pdf) on the reporting and portrayal of suicide in the media. These guidelines are intended to reduce stigma, which is a [barrier to  help-seeking behaviour](https://doi.org/10.1007/s00127-013-0745-4). There is [some evidence](http://dx.doi.org/10.1080/00048670701266680) that such guidelines are effective in lowering real world suicidal behavior. See [here](https://netecr.wordpress.com/2017/09/07/commit-to-change-wikipedia-edit-a-thon/) for more information on this project, or [here](https://github.com/ianhussey/destigmatize-suicide-bot) for code." -file:"~/git/destigmatize-suicide-bot/data/scraped_data/unique pages with problematic language with suicid in title.txt"
+```shell
+python ~/pywikibot/core/pwb.py replace -lang:en -ns:0 -simulate "unsuccessful suicide" "non-fatal suicide" -file:/Users/Ian/git/destigmatize-suicide-bot/data/scraped_data/subset_of_problematic_pages.txt
 ```
 
 - `~/pywikibot/core/pwb.py` Specifies the location of your pywikibot installation. 
 - `-lang:en` english language articles only
 - `-ns:0` articles only, no talk pages etc.
 - `-simulate` only simulate the changes, don't do them for real.\*
-- `-search:"committed suicide" "committed suicide" "died by suicide"` find pages that include the first string, then replace the second string with the third
+- `-search:"committed suicide"` find pages that include the string. alternative to using a file including scraped pages.
 - `-summary` the summary saved
 - `-file` only search pages in the local file. e.g., `-file:"~/git/destigmatize-suicide-bot/data/scraped_data/unique pages with problematic language.txt"`
 - Adding `| tee -a ~/git/destigmatize-suicide-bot/logs/completed_replacements.txt ` should save the output of the terminal to disk, appending if file is already present. This would be useful to save a copy of work done. However, it's not working for some reason. The console output can be saved manually however, using shell>export text.
+- `-summary:"my text"` Is the edit summary that is permanently left on wikipedia. This needs thought. It can be max 250 characters and many are very short. Initial idea was too long, and it's not clear how to include hyperlinks: "Language around suicide changed to be in line with the World Health Organisation's [guidelines](http://whqlibdoc.who.int/publications/2008/9789241597074_eng.pdf) on the reporting and portrayal of suicide in the media. These guidelines are intended to reduce stigma, which is a [barrier to  help-seeking behaviour](https://doi.org/10.1007/s00127-013-0745-4). There is [some evidence](http://dx.doi.org/10.1080/00048670701266680) that such guidelines are effective in lowering real world suicidal behavior. See [here](https://netecr.wordpress.com/2017/09/07/commit-to-change-wikipedia-edit-a-thon/) for more information on this project, or [here](https://github.com/ianhussey/destigmatize-suicide-bot) for code."
 
 
 \* **IMPORTANT**: There are strict rules around editing wikipedia using bots. The above code is very easy to implement, but until we're confident that we know what we're doing here we should be cautious. Breaking the rules risks brining negative attention from the editors who might not favour future attempts, not to mention having all our changes undone and accounts banned.
@@ -234,3 +235,4 @@ The lists might want to be ordered in some way too. They're iterated by order, s
 - Figure out execution of local python scripts from within Atom, etc. This would allow me to scrape directly to local files, increasing reproducability and cutting down on copy-pasting and associated issues. See https://www.mediawiki.org/wiki/Manual:Pywikibot/Create_your_own_script
 - Idea: quantify the amount (instances on pages, not just number of pages) of preferred language vs problematic language on wikipedia to provide pre-post data.
 - Consider a separate/centralised account if we'll use a bot.
+- Use the wiki pages on editing to refine the edit summary wording etc https://en.wikipedia.org/wiki/Help:Edit_summary#How_to_write_an_edit_summary
