@@ -26,42 +26,117 @@ knitr::opts_chunk$set(
 
 library(tidyverse)
 library(stringr)
+library(knitr)
 
 ```
 
-```{r get data}
+```{r get data problematic}
 
-# read in data from the distinct searches
+# read in data from searches for problematic language
 data_search_1 <- read_tsv("scraped_data/pages_failed_suicide.txt", col_names = FALSE) %>%
   rename(page_name = X1) %>%
   mutate(search_criterion = "failed suicide")
 
-data_search_2 <- read_tsv("scraped_data/pages_committed_suicide.txt", col_names = FALSE) %>%
-  rename(page_name = X1) %>%
-  mutate(search_criterion = "committed suicide")
-
-data_search_3 <- read_tsv("scraped_data/pages_unsuccessful_suicide.txt", col_names = FALSE) %>%
+data_search_2 <- read_tsv("scraped_data/pages_unsuccessful_suicide.txt", col_names = FALSE) %>%
   rename(page_name = X1) %>%
   mutate(search_criterion = "unsuccessful suicide")
 
+data_search_3 <- read_tsv("scraped_data/pages_committed_suicide.txt", col_names = FALSE) %>%
+  rename(page_name = X1) %>%
+  mutate(search_criterion = "committed suicide")
+
+data_search_4 <- read_tsv("scraped_data/pages_commits_suicide.txt", col_names = FALSE) %>%
+  rename(page_name = X1) %>%
+  mutate(search_criterion = "commits suicide")
+
+data_search_5 <- read_tsv("scraped_data/pages_commit_suicide.txt", col_names = FALSE) %>%
+  rename(page_name = X1) %>%
+  mutate(search_criterion = "commit suicide")
+
 ```
+
+
+```{r get data preferred}
+
+# read in data from searches for preferred language
+data_search_6 <- read_tsv("scraped_data/pages_died_by_suicide.txt", col_names = FALSE) %>%
+  rename(page_name = X1) %>%
+  mutate(search_criterion = "died by suicide")
+
+data_search_7 <- read_tsv("scraped_data/pages_killed_herself.txt", col_names = FALSE) %>%
+  rename(page_name = X1) %>%
+  mutate(search_criterion = "killed herself")
+
+data_search_8 <- read_tsv("scraped_data/pages_killed_himself.txt", col_names = FALSE) %>%
+  rename(page_name = X1) %>%
+  mutate(search_criterion = "killed himself")
+
+data_search_9 <- read_tsv("scraped_data/pages_killed_themself.txt", col_names = FALSE) %>%
+  rename(page_name = X1) %>%
+  mutate(search_criterion = "killed themself")
+
+data_search_10 <- read_tsv("scraped_data/pages_killed_themselves.txt", col_names = FALSE) %>%
+  rename(page_name = X1) %>%
+  mutate(search_criterion = "killed themselves")
+
+data_search_11 <- read_tsv("scraped_data/pages_non_fatal_suicide.txt", col_names = FALSE) %>%
+  rename(page_name = X1) %>%
+  mutate(search_criterion = "non fatal suicide")
+
+```
+
+
 
 ```{r process data}
 
-# combine them and find unique page names
-combined_data <- rbind(data_search_1, data_search_2, data_search_3) %>%
-  distinct(page_name)
+# combine and find unique page names
+
+# problematic language
+pages_with_problematic_language <- 
+  rbind(data_search_1, 
+        data_search_2, 
+        data_search_3,
+        data_search_4,
+        data_search_5) %>%
+  distinct(page_name) %>%
+  mutate(prob_lang = 1)
 
 # write to disk
-combined_data %>% write_csv("processed/unique pages meeting one or more criteria.csv")
+pages_with_problematic_language %>% 
+  write_csv("processed/unique pages with problematic language.csv")
+
+# preferred language
+pages_with_preferred_language <- 
+  rbind(data_search_6, 
+        data_search_7, 
+        data_search_8,
+        data_search_9,
+        data_search_10,
+        data_search_11) %>%
+  distinct(page_name) %>%
+  mutate(pref_lang = 1)
+
+# write to disk
+pages_with_preferred_language %>% 
+  write_csv("processed/unique pages with problematic language.csv")
+```
 
 
+```{r}
+# permutations of preferred and problematic language
+full_join(pages_with_problematic_language, pages_with_preferred_language) %>%
+  count(pref_lang, prob_lang) %>%
+  kable() 
+```
+
+```{r}
 
 # subset the pages that have "suicid" in the title
 title_contains_suicide <- combined_data %>%
   filter(str_detect(page_name, "suicid"))
 
 # write to disk
-title_contains_suicide %>% write_csv("processed/pages with suicid in title.csv")
+title_contains_suicide %>% write_csv("processed/unique pages with problematic language with suicid in title.csv")
 
 ```
+

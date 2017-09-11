@@ -34,6 +34,7 @@ From the WHO guidelines:
 ### Ideas for specific targets
 
 - "commit suicide" to "die by suicide"
+  - There are cases in which "commit suicide" is not appropriate but "die by suicide" is not the correct alternative. For example, on the suicide risk assessment page it should be changed to "make a suicide attempt". How to account for this?
 - "commits suicide" to "dies by suicide"
 - "committed suicide" to "died by suicide"
   - Is it worth searching for common misspellings too? 
@@ -144,22 +145,82 @@ This data might be useful in 1) organising manual editing activities, and/or 2) 
 
 Search terms that have been run (locally) and their code are listed below:
 
-#### "failed suicide"
+#### Undesirable language
+
+##### "failed suicide"
 
 ~~~shell
 python pwb.py listpages -format:3 -lang:en -ns:0 -search:"failed suicide" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_failed_suicide.txt
 ~~~
 
-#### "unsuccessful suicide"
+##### "unsuccessful suicide"
 
 ```shell
 python pwb.py listpages -format:3 -lang:en -ns:0 -search:"unsuccessful suicide" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_unsuccessful_suicide.txt
 ```
 
-#### "committed suicide"
+##### "committed suicide"
 
 ```shell
 python pwb.py listpages -format:3 -lang:en -ns:0 -search:"committed suicide" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_committed_suicide.txt
+```
+
+##### "commit suicide"
+
+```shell
+python pwb.py listpages -format:3 -lang:en -ns:0 -search:"commit suicide" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_commit_suicide.txt
+```
+
+##### "commits suicide"
+
+```shell
+python pwb.py listpages -format:3 -lang:en -ns:0 -search:"commits suicide" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_commits_suicide.txt
+```
+
+
+
+#### Preferred language
+
+##### "died by suicide"
+
+```shell
+python pwb.py listpages -format:3 -lang:en -ns:0 -search:"died by suicide" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_died_by_suicide.txt
+```
+
+##### "non-fatal suicide"
+
+```shell
+python pwb.py listpages -format:3 -lang:en -ns:0 -search:"non-fatal suicide" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_non_fatal_suicide.txt
+```
+
+##### "killed themself"
+
+```shell
+python pwb.py listpages -format:3 -lang:en -ns:0 -search:"killed themself" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_killed_themself.txt
+```
+
+##### "killed themselves"
+
+```shell
+python pwb.py listpages -format:3 -lang:en -ns:0 -search:"killed themselves" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_killed_themselves.txt
+```
+
+##### "killed himself"
+
+```shell
+python pwb.py listpages -format:3 -lang:en -ns:0 -search:"killed himself" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_killed_himself.txt
+```
+
+##### "killed herself"
+
+```shell
+python pwb.py listpages -format:3 -lang:en -ns:0 -search:"killed herself" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_killed_herself.txt
+```
+
+##### "too their own life"
+
+```shell
+python pwb.py listpages -format:3 -lang:en -ns:0 -search:"took their own life" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_took_their_own_life.txt
 ```
 
 
@@ -181,3 +242,4 @@ If we retain only those pages that also include "suicid" in the title, this leav
 - Chose more specific targets.
 - Get others from netECR involved, and/or provide data to netECR to aid others' efforts.
 - Figure out execution of local python scripts from within Atom, etc. This would allow me to scrape directly to local files, increasing reproducability and cutting down on copy-pasting and associated issues. See https://www.mediawiki.org/wiki/Manual:Pywikibot/Create_your_own_script
+- Idea: quantify the amount (instances on pages, not just number of pages) of preferred language vs problematic language on wikipedia to provide pre-post data.
