@@ -57,15 +57,7 @@ Pywikibot can be run locally or in the cloud via PAWS (Pywikibot: A Web Shell). 
 
 #### Local installations
 
-To run locally, after installation:
-
-1. Change to the directory of your local installation. For me, this is:
-
-```shell
-cd ~/pywikibot/core 
-```
-
-2. Then simply make your function calls (below)
+Follow guide [here](https://www.mediawiki.org/wiki/Manual:Pywikibot/Installation) and then simply run scripts below in terminal.
 
 NB I'm still working on how to call this within a python script executed from within Atom, etc.
 
@@ -108,26 +100,20 @@ Documentation for function [here](https://www.mediawiki.org/wiki/Manual:Pywikibo
 Working example:
 
 ```python
-python pwb.py replace -lang:en -ns:0 -simulate -search:"unsuccessful suicide" "unsuccessful suicide" "non-fatal suicide" -summary:"Changed stigmatising language based on reccomended media guidelines" -file:"~/git/destigmatize-suicide-bot/data/scraped_data/unique pages with problematic language with suicid in title.txt"
+python ~/pywikibot/core/pwb.py replace -lang:en -ns:0 -simulate -search:"unsuccessful suicide" "unsuccessful suicide" "non-fatal suicide" -summary:"Language around suicide changed to be in line with the World Health Organisation's [guidelines](http://whqlibdoc.who.int/publications/2008/9789241597074_eng.pdf) on the reporting and portrayal of suicide in the media. These guidelines are intended to reduce stigma, which is a [barrier to  help-seeking behaviour](https://doi.org/10.1007/s00127-013-0745-4). There is [some evidence](http://dx.doi.org/10.1080/00048670701266680) that such guidelines are effective in lowering real world suicidal behavior. See [here](https://netecr.wordpress.com/2017/09/07/commit-to-change-wikipedia-edit-a-thon/) for more information on this project, or [here](https://github.com/ianhussey/destigmatize-suicide-bot) for code." -file:"~/git/destigmatize-suicide-bot/data/scraped_data/unique pages with problematic language with suicid in title.txt"
 ```
 
+- `~/pywikibot/core/pwb.py` Specifies the location of your pywikibot installation. 
 - `-lang:en` english language articles only
 - `-ns:0` articles only, no talk pages etc.
 - `-simulate` only simulate the changes, don't do them for real.\*
 - `-search:"committed suicide" "committed suicide" "died by suicide"` find pages that include the first string, then replace the second string with the third
 - `-summary` the summary saved
 - `-file` only search pages in the local file. e.g., `-file:"~/git/destigmatize-suicide-bot/data/scraped_data/unique pages with problematic language.txt"`
+- Adding `| tee -a ~/git/destigmatize-suicide-bot/logs/completed_replacements.txt ` should save the output of the terminal to disk, appending if file is already present. This would be useful to save a copy of work done. However, it's not working for some reason. The console output can be saved manually however, using shell>export text.
 
 
 \* **IMPORTANT**: There are strict rules around editing wikipedia using bots. The above code is very easy to implement, but until we're confident that we know what we're doing here we should be cautious. Breaking the rules risks brining negative attention from the editors who might not favour future attempts, not to mention having all our changes undone and accounts banned.
-
-
-
-~~~
-python pwb.py replace -lang:en -ns:0 -simulate -search:"unsuccessful suicide" "unsuccessful suicide" "non-fatal suicide" -summary:"Changed stigmatising language based on reccomended media guidelines" -file:"~/git/destigmatize-suicide-bot/data/scraped_data/unique pages with problematic language with suicid in title.txt"
-~~~
-
-
 
 
 
@@ -144,31 +130,31 @@ Search terms that have been run (locally) and their code are listed below:
 ##### "failed suicide"
 
 ~~~shell
-python pwb.py listpages -format:3 -lang:en -ns:0 -search:"failed suicide" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_failed_suicide.txt
+python ~/pywikibot/core/pwb.py listpages -format:3 -lang:en -ns:0 -search:"failed suicide" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_failed_suicide.txt
 ~~~
 
 ##### "unsuccessful suicide"
 
 ```shell
-python pwb.py listpages -format:3 -lang:en -ns:0 -search:"unsuccessful suicide" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_unsuccessful_suicide.txt
+python ~/pywikibot/core/pwb.py listpages -format:3 -lang:en -ns:0 -search:"unsuccessful suicide" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_unsuccessful_suicide.txt
 ```
 
 ##### "committed suicide"
 
 ```shell
-python pwb.py listpages -format:3 -lang:en -ns:0 -search:"committed suicide" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_committed_suicide.txt
+python ~/pywikibot/core/pwb.py listpages -format:3 -lang:en -ns:0 -search:"committed suicide" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_committed_suicide.txt
 ```
 
 ##### "commit suicide"
 
 ```shell
-python pwb.py listpages -format:3 -lang:en -ns:0 -search:"commit suicide" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_commit_suicide.txt
+python ~/pywikibot/core/pwb.py listpages -format:3 -lang:en -ns:0 -search:"commit suicide" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_commit_suicide.txt
 ```
 
 ##### "commits suicide"
 
 ```shell
-python pwb.py listpages -format:3 -lang:en -ns:0 -search:"commits suicide" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_commits_suicide.txt
+python ~/pywikibot/core/pwb.py listpages -format:3 -lang:en -ns:0 -search:"commits suicide" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_commits_suicide.txt
 ```
 
 
@@ -178,43 +164,43 @@ python pwb.py listpages -format:3 -lang:en -ns:0 -search:"commits suicide" | tee
 ##### "died by suicide"
 
 ```shell
-python pwb.py listpages -format:3 -lang:en -ns:0 -search:"died by suicide" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_died_by_suicide.txt
+python ~/pywikibot/core/pwb.py listpages -format:3 -lang:en -ns:0 -search:"died by suicide" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_died_by_suicide.txt
 ```
 
 ##### "non-fatal suicide"
 
 ```shell
-python pwb.py listpages -format:3 -lang:en -ns:0 -search:"non-fatal suicide" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_non_fatal_suicide.txt
+python ~/pywikibot/core/pwb.py listpages -format:3 -lang:en -ns:0 -search:"non-fatal suicide" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_non_fatal_suicide.txt
 ```
 
 ##### "killed themself"
 
 ```shell
-python pwb.py listpages -format:3 -lang:en -ns:0 -search:"killed themself" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_killed_themself.txt
+python ~/pywikibot/core/pwb.py listpages -format:3 -lang:en -ns:0 -search:"killed themself" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_killed_themself.txt
 ```
 
 ##### "killed themselves"
 
 ```shell
-python pwb.py listpages -format:3 -lang:en -ns:0 -search:"killed themselves" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_killed_themselves.txt
+python ~/pywikibot/core/pwb.py listpages -format:3 -lang:en -ns:0 -search:"killed themselves" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_killed_themselves.txt
 ```
 
 ##### "killed himself"
 
 ```shell
-python pwb.py listpages -format:3 -lang:en -ns:0 -search:"killed himself" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_killed_himself.txt
+python ~/pywikibot/core/pwb.py listpages -format:3 -lang:en -ns:0 -search:"killed himself" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_killed_himself.txt
 ```
 
 ##### "killed herself"
 
 ```shell
-python pwb.py listpages -format:3 -lang:en -ns:0 -search:"killed herself" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_killed_herself.txt
+python ~/pywikibot/core/pwb.py listpages -format:3 -lang:en -ns:0 -search:"killed herself" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_killed_herself.txt
 ```
 
 ##### "too their own life"
 
 ```shell
-python pwb.py listpages -format:3 -lang:en -ns:0 -search:"took their own life" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_took_their_own_life.txt
+python ~/pywikibot/core/pwb.py listpages -format:3 -lang:en -ns:0 -search:"took their own life" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_took_their_own_life.txt
 ```
 
 
@@ -229,6 +215,16 @@ If we retain only those pages that also include "suicid" in the title, this leav
 
 
 
+## Scalability
+
+Can this be used by multiple (even a very large) number of people at the same time to screen a large number of articles?
+
+The find and replace command iterates over the list of articles in the order listed and skips articles where no string matches are found. This allows for doing edits in batches/different sessions without requiring separation of work done vs to do. It also allows for multiple people to do the editing at the same people (although what about pywikibot's rate limiter and Wikipedia's flooding limits?). Multiple people could work out of local clone of the single repo, with centralised scraping of the lists. 
+
+The lists might want to be ordered in some way too. They're iterated by order, so if we could figure out a way to rank the list in order of importance this could be more effective. For example, what if we scraped article categories and ranked them by consensus? E.g., things related to psychology and help seeking, public figures, fiction, etc.
+
+
+
 ## To do
 
 - Refine and test the get and replace strings code.
@@ -237,3 +233,4 @@ If we retain only those pages that also include "suicid" in the title, this leav
 - Get others from netECR involved, and/or provide data to netECR to aid others' efforts.
 - Figure out execution of local python scripts from within Atom, etc. This would allow me to scrape directly to local files, increasing reproducability and cutting down on copy-pasting and associated issues. See https://www.mediawiki.org/wiki/Manual:Pywikibot/Create_your_own_script
 - Idea: quantify the amount (instances on pages, not just number of pages) of preferred language vs problematic language on wikipedia to provide pre-post data.
+- Consider a separate/centralised account if we'll use a bot.
