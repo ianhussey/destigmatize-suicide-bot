@@ -64,8 +64,8 @@ Follow guide [here](https://www.mediawiki.org/wiki/Manual:Pywikibot/Installation
 1. Install python (https://www.python.org/downloads/)
 2. In the terminal, run the following commands:
    1. Install dependencies using `pip install requests`.
-   2. Set up configuration files using `python /Users/Ian/git/destigmatize-suicide-bot/pywikibot/core/pwb.py generate_user_files`, changing file location as necessary.
-   3. Log in to wiki account using `python /Users/Ian/git/destigmatize-suicide-bot/pywikibot/core/pwb.py login`, changing file location as necessary.
+   2. Set up configuration files using `python /Users/Ian/git/destigmatize-suicide-bot/pywikibot/pwb.py generate_user_files`, changing file location as necessary.
+   3. Log in to wiki account using `python /Users/Ian/git/destigmatize-suicide-bot/pywikibot/pwb.py login`, changing file location as necessary.
       1. [will we use a communal account? need include details here]
 
 I'm still working on how to call this within a python script executed from within Atom, etc.
@@ -79,7 +79,7 @@ Documentation for function [here](https://www.mediawiki.org/wiki/Manual:Pywikibo
 Working example:
 
 ```shell
-python /Users/Ian/git/destigmatize-suicide-bot/pywikibot/core/pwb.py listpages -format:3 -lang:en -ns:0 -search:"failed suicide" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_failed_suicide.txt
+python /Users/Ian/git/destigmatize-suicide-bot/pywikibot/pwb.py listpages -format:3 -lang:en -ns:0 -search:"failed suicide" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_failed_suicide.txt
 ```
 
 - `command | tee output.txt` shows the output in the terminal and also writes it to the specified file.
@@ -107,10 +107,10 @@ Documentation for function [here](https://www.mediawiki.org/wiki/Manual:Pywikibo
 Working example:
 
 ```shell
-python /Users/Ian/git/destigmatize-suicide-bot/pywikibot/core/pwb.py replace -lang:en -ns:0 -simulate "failed suicide" "non-fatal suicide" -file:/Users/Ian/git/destigmatize-suicide-bot/data/processed/subset_of_problematic_pages.txt
+python /Users/Ian/git/destigmatize-suicide-bot/pywikibot/pwb.py replace -lang:en -ns:0 -simulate "failed suicide" "non-fatal suicide" -file:/Users/Ian/git/destigmatize-suicide-bot/data/processed/subset_of_problematic_pages.txt
 ```
 
-- `/Users/Ian/git/destigmatize-suicide-bot/pywikibot/core/pwb.py` Specifies the location of your pywikibot installation. As it's included in this repo, just change the directory to your git repo.
+- `/Users/Ian/git/destigmatize-suicide-bot/pywikibot/pwb.py` Specifies the location of your pywikibot installation. As it's included in this repo, just change the directory to your git repo.
 - `-lang:en` english language articles only
 - `-ns:0` articles only, no talk pages etc.
 - `-simulate` only simulate the changes, don't do them for real.\*
@@ -138,31 +138,31 @@ Search terms that have been run (locally) and their code are listed below:
 ##### "failed suicide"
 
 ~~~shell
-python ~/pywikibot/core/pwb.py listpages -format:3 -lang:en -ns:0 -search:"failed suicide" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_failed_suicide.txt
+python /Users/Ian/git/destigmatize-suicide-bot/pywikibot/pwb.py listpages -format:3 -lang:en -ns:0 -search:"failed suicide" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_failed_suicide.txt
 ~~~
 
 ##### "unsuccessful suicide"
 
 ```shell
-python /Users/Ian/git/destigmatize-suicide-bot/pywikibot/core/pwb.py listpages -format:3 -lang:en -ns:0 -search:"unsuccessful suicide" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_unsuccessful_suicide.txt
+python /Users/Ian/git/destigmatize-suicide-bot/pywikibot/pwb.py listpages -format:3 -lang:en -ns:0 -search:"unsuccessful suicide" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_unsuccessful_suicide.txt
 ```
 
 ##### "committed suicide"
 
 ```shell
-python ~/pywikibot/core/pwb.py listpages -format:3 -lang:en -ns:0 -search:"committed suicide" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_committed_suicide.txt
+python /Users/Ian/git/destigmatize-suicide-bot/pywikibot/pwb.py listpages -format:3 -lang:en -ns:0 -search:"committed suicide" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_committed_suicide.txt
 ```
 
 ##### "commit suicide"
 
 ```shell
-python ~/pywikibot/core/pwb.py listpages -format:3 -lang:en -ns:0 -search:"commit suicide" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_commit_suicide.txt
+python /Users/Ian/git/destigmatize-suicide-bot/pywikibot/pwb.py listpages -format:3 -lang:en -ns:0 -search:"commit suicide" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_commit_suicide.txt
 ```
 
 ##### "commits suicide"
 
 ```shell
-python ~/pywikibot/core/pwb.py listpages -format:3 -lang:en -ns:0 -search:"commits suicide" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_commits_suicide.txt
+python /Users/Ian/git/destigmatize-suicide-bot/pywikibot/pwb.py listpages -format:3 -lang:en -ns:0 -search:"commits suicide" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_commits_suicide.txt
 ```
 
 
@@ -172,43 +172,43 @@ python ~/pywikibot/core/pwb.py listpages -format:3 -lang:en -ns:0 -search:"commi
 ##### "died by suicide"
 
 ```shell
-python ~/pywikibot/core/pwb.py listpages -format:3 -lang:en -ns:0 -search:"died by suicide" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_died_by_suicide.txt
+python /Users/Ian/git/destigmatize-suicide-bot/pywikibot/pwb.py listpages -format:3 -lang:en -ns:0 -search:"died by suicide" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_died_by_suicide.txt
 ```
 
 ##### "non-fatal suicide"
 
 ```shell
-python ~/pywikibot/core/pwb.py listpages -format:3 -lang:en -ns:0 -search:"non-fatal suicide" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_non_fatal_suicide.txt
+python /Users/Ian/git/destigmatize-suicide-bot/pywikibot/pwb.py listpages -format:3 -lang:en -ns:0 -search:"non-fatal suicide" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_non_fatal_suicide.txt
 ```
 
 ##### "killed themself"
 
 ```shell
-python ~/pywikibot/core/pwb.py listpages -format:3 -lang:en -ns:0 -search:"killed themself" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_killed_themself.txt
+python /Users/Ian/git/destigmatize-suicide-bot/pywikibot/pwb.py listpages -format:3 -lang:en -ns:0 -search:"killed themself" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_killed_themself.txt
 ```
 
 ##### "killed themselves"
 
 ```shell
-python ~/pywikibot/core/pwb.py listpages -format:3 -lang:en -ns:0 -search:"killed themselves" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_killed_themselves.txt
+python /Users/Ian/git/destigmatize-suicide-bot/pywikibot/pwb.py listpages -format:3 -lang:en -ns:0 -search:"killed themselves" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_killed_themselves.txt
 ```
 
 ##### "killed himself"
 
 ```shell
-python ~/pywikibot/core/pwb.py listpages -format:3 -lang:en -ns:0 -search:"killed himself" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_killed_himself.txt
+python /Users/Ian/git/destigmatize-suicide-bot/pywikibot/pwb.py listpages -format:3 -lang:en -ns:0 -search:"killed himself" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_killed_himself.txt
 ```
 
 ##### "killed herself"
 
 ```shell
-python ~/pywikibot/core/pwb.py listpages -format:3 -lang:en -ns:0 -search:"killed herself" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_killed_herself.txt
+python /Users/Ian/git/destigmatize-suicide-bot/pywikibot/pwb.py listpages -format:3 -lang:en -ns:0 -search:"killed herself" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_killed_herself.txt
 ```
 
 ##### "too their own life"
 
 ```shell
-python ~/pywikibot/core/pwb.py listpages -format:3 -lang:en -ns:0 -search:"took their own life" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_took_their_own_life.txt
+python /Users/Ian/git/destigmatize-suicide-bot/pywikibot/pwb.py listpages -format:3 -lang:en -ns:0 -search:"took their own life" | tee ~/git/destigmatize-suicide-bot/data/scraped_data/pages_took_their_own_life.txt
 ```
 
 

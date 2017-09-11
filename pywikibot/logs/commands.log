@@ -47,3 +47,5 @@
 2017-09-12 00:20:47 rg1 Python 2.7.13 replace "-lang:en" "-ns:0" "-simulate" "unsuccessful suicide" "non-fatal suicide" "-summary:updated suicide language to follow World Health Organisation (2008) guidelines" "-file:https://raw.githubusercontent.com/ianhussey/destigmatize-suicide-bot/master/data/processed/subset_of_problematic_pages.txt"
 2017-09-12 00:21:40 rg1 Python 2.7.13 replace "-lang:en" "-ns:0" "-simulate" "unsuccessful suicide" "non-fatal suicide" "-file:/Users/Ian/git/destigmatize-suicide-bot/data/processed/subset_of_problematic_pages.txt"
 2017-09-12 00:22:35 rg1 Python 2.7.13 replace "-lang:en" "-ns:0" "-simulate" "failed suicide" "non-fatal suicide" "-file:/Users/Ian/git/destigmatize-suicide-bot/data/processed/subset_of_problematic_pages.txt"
+2017-09-12 00:32:47 r-1 (unknown) Python 2.7.13 listpages "-format:3" "-lang:en" "-ns:0" "-search:failed suicide"
+2017-09-12 00:33:30 r-1 (unknown) Python 2.7.13 replace "-lang:en" "-ns:0" "-simulate" "failed suicide" "non-fatal suicide" "-file:/Users/Ian/git/destigmatize-suicide-bot/data/processed/subset_of_problematic_pages.txt"
