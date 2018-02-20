@@ -49,13 +49,13 @@ Here I used [Pywikibot](https://www.mediawiki.org/wiki/Manual:Pywikibot), a pyth
 
 ### Installation and usage
 
+Pywikibot can be run locally or in the cloud via PAWS (Python: A Web Shell). [currently using the local version myself]
+
 #### Cloud based instances
 
-Pywikibot can be run locally or in the cloud via PAWS (Pywikibot: A Web Shell). I'm using PAWS as it requires less setup. A guide is available [here](https://www.mediawiki.org/wiki/Manual:Pywikibot/PAWS).
+A guide is available [here](https://www.mediawiki.org/wiki/Manual:Pywikibot/PAWS).
 
 *Note to self: my PAWS instance is available [here](https://paws.wmflabs.org/paws/user/ianhussey/notebooks/Wiki%20suicide%20bot%20management.ipynb).*
-
-
 
 #### Local installations
 
@@ -68,11 +68,9 @@ Follow guide [here](https://www.mediawiki.org/wiki/Manual:Pywikibot/Installation
    3. Log in to wiki account using `python /Users/Ian/git/destigmatize-suicide-bot/pywikibot/pwb.py login`, changing file location as necessary.
       1. [will we use a communal account? need include details here]
 
-I'm still working on how to call this within a python script executed from within Atom, etc.
-
 ### Functions
 
-#### Find list of pages that contain strings
+#### 1. Find list of pages that contain strings
 
 Documentation for function [here](https://www.mediawiki.org/wiki/Manual:Pywikibot/listpages.py).
 
@@ -100,7 +98,7 @@ Possibly useful additional parameters:
 
 
 
-#### Find and replace strings, provide summary of changes
+#### 2. Find and replace strings, provide summary of changes
 
 Documentation for function [here](https://www.mediawiki.org/wiki/Manual:Pywikibot/replace.py).
 
